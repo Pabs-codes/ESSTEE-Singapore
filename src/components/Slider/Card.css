@@ -1,0 +1,64 @@
+/* Card.css */
+
+.card {
+    display: flex;
+    /* border: 1px solid #ddd; */
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 10px;
+    max-width: 1200px; 
+    height: 100vh;
+    margin:auto;
+    padding-top: 100px;
+  }
+  
+  .card-image {
+    width: 500px; /* Adjust as needed */
+    height: 100%; /* Ensures the image takes the full height of the card */
+    object-fit: cover; 
+    border-radius: 20px;
+  }
+  
+  .card-content {
+    padding: 50px;
+    width: full;
+  }
+  
+  .title{
+    font-size: 20px;
+  }
+
+  .subtitle{
+    font-size: 16px;
+    color: gray;
+   padding-left: 90px;
+    padding-bottom: 20px;
+
+  }
+
+  .description{
+    font-size: 16px;
+    font-family:'Times New Roman', Times, serif;
+
+  }
+
+  @media only screen and (max-width: 768px) {
+    .card {
+      flex-direction: column; /* Stack items vertically on smaller screens */
+      height: auto; /* Adjust height as needed */
+    }
+  
+    .card-image {
+      width: 100%; /* Take full width on smaller screens */
+      height: 100%; /* Adjust height as needed */
+      border-radius: 0; /* No border-radius on smaller screens */
+    }
+  
+    .card-content {
+      padding: 20px;
+    }
+  
+    .subtitle {
+      padding-left: 0;
+    }
+  }
