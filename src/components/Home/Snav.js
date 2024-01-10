@@ -194,15 +194,41 @@ const TradeAndExport = () => {
   );
 };
 
+// automatic navigation
+
 
 const App = () => {
-  // Set 'whyus ' as the default selected item
   const [selectedItem, setSelectedItem] = useState('Why Choose Us');
 
   const handleSelect = (item) => {
     setSelectedItem(item);
   };
 
+  useEffect(() => {
+    let intervalId;
+
+    const startAutomaticNavigation = () => {
+      intervalId = setInterval(() => {
+        // Get the current index of the items
+        const items = ['Why Choose Us', 'Working Area', 'DirectorProfile', 'Trade and Export'];
+        const currentIndex = items.indexOf(selectedItem);
+
+        // Calculate the next index
+        const nextIndex = (currentIndex + 1) % items.length;
+
+        // Update the selected item
+        setSelectedItem(items[nextIndex]);
+      }, 10000);
+    };
+
+    // Start automatic navigation initially
+    startAutomaticNavigation();
+
+    return () => {
+      // Clear the interval when the component is unmounted or when the user clicks an item
+      clearInterval(intervalId);
+    };
+  }, [selectedItem]);
   return (
     <div>
      <Snav onSelect={handleSelect} selectedItem={selectedItem} />
