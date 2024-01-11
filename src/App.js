@@ -1,40 +1,53 @@
-import './App.css';
-import Navbar from './components/Navbar/navbar';
-import Home from './components/Home/Home';
-import Snav from './components/Home/Snav';
-import Main from './components/Main/Main';
-import Footer from './components/Footer/Footer';
-import Card from './components/Slider/Slider';
+import AboutR from "./routes/AboutR";
+import HomeR from "./routes/HomeR";
+import { Route, Routes } from "react-router-dom";
 
-
-
-import img from './Assets/VM.png';
-import logoImage from './Assets/ESSTEEhq.png';
-
-function App() {
+export default function App() {
   return (
-   <>
-      <Navbar />
-      <Home />
-      <Snav/>
-      <Card
-        imageUrl={img}
-        title="Welcome to ESSTEE SINGAPORE "
-        subtitle="Trading Company"
-        description="Esstee Singapore stands as a prominent Trading company in the heart of Asia, recognized for its dynamic and diversified portfolio. Our vision at Esstee is to achieve unprecedented business growth, holding the most expansive range of products for our esteemed clients.
-
-        Commencing our journey as Import/Export and Intending specialists, Esstee foresaw the burgeoning potential in the Steel Industry amid post-war developments. With a strategic vision, we forged partnerships with key players across the globe, positioning ourselves as a premier importer and distributor of top-notch and durable steel for diverse development projects. Today, we are a renowned steel supplier catering to a wide spectrum of requirements.
-        
-        At Esstee Singapore, we uphold the belief that our valued partnerships with both associates and clients, coupled with our unwavering commitment and unparalleled service levels, position us as a trustworthy business partner for every supplier and customer.
-        
-        "
-      />
-      <Main />
-    
-   
-      <Footer />
-   </>  
+    <Routes>
+      <Route path="/" element={<HomeR />} />
+      <Route path="/About" element={<AboutR/>} />
+    </Routes>
   );
 }
 
-export default App;
+
+
+
+
+
+
+/*
+
+import React from "react";
+import "./styles.css";
+import Home from "./routes/Home";
+import About from "./routes/About"; 
+import Service from "./routes/Service";
+import Projects from "./routes/Projects";
+import Products from "./routes/Products"; 
+import Contact from "./routes/Contact"; 
+// import Error from "./routes/Error";
+import { Route, Routes } from "react-router-dom";
+
+export default function App() {
+  return (
+    <div className="App">
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/services" element={<Service />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/products" element={<Products />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
+
+      
+
+   
+      </div>
+      );
+    }
+    
+
+*/

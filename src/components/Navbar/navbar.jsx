@@ -28,7 +28,6 @@ export const Navbar = () => {
             <div className='logoDiv'>
                 <a href='#' className='logo flex'>
                 <img
-            data-aos="fade-up"
             className="logo"
             src={logoImage}
             alt="Estee Singapoore PTE.Ltd. Logo"
@@ -40,11 +39,11 @@ export const Navbar = () => {
                 <ul className='navList flex'>
 
                     <li className='navItem'>
-                        <a href='#' className='navLink'>Home</a>
+                        <a href='/' className='navLink'>Home</a>
                     </li>
 
                     <li className='navItem'>
-                        <a href='#' className='navLink'>About Us</a>
+                        <a href='/About' className='navLink'>About Us</a>
                     </li>
 
                     <li className='navItem'>

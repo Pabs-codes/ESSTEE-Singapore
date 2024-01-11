@@ -1,0 +1,71 @@
+/* About.css */
+
+.about-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  padding-top: 130px;
+  gap: 20px;
+
+  
+}
+
+.left-content {
+  flex: 1;
+  padding: 20px;
+  background-color: rgb(154, 17, 17);
+  border-radius: 15px;
+  color: aliceblue;
+  border: 3px solid#C71102;;
+ 
+
+}
+
+.right-content {
+  flex: 1;
+  text-align: center;
+}
+
+h2 {
+  color: #fffdfd;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+  font-weight: 400;
+}
+
+.partner-page {
+  margin-top: 30px;
+}
+
+.partner-page h2 {
+  color: #333;
+}
+
+.partner-page img {
+  max-width: 100%;
+  margin: 20px 0;
+  border-radius: 15px;
+}
+
+/* Responsive Design */
+
+@media screen and (max-width: 600px) {
+  .about-container {
+    flex-direction: column;
+  }
+
+  .left-content,
+  .right-content {
+    text-align: justify;
+    padding: 10px;
+  }
+
+  .partner-page {
+    margin-top: 20px;
+  }
+}
