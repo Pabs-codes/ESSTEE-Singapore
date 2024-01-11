@@ -1,0 +1,296 @@
+{
+  "categories": [
+    {
+      "_id": "abc123",
+      "category": "Hot Rolled Products",
+      "availability": "Available",
+      "name": "Billets",
+      "imageUrl": "./media/billets.jpg",   
+      "size2": "‎ ",
+      "details": "SIZE : 70*70 150*150",
+      "details2": "‎  "
+     
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Hot Rolled Products",
+      "availability": "Available",
+      "name": "WIRE RODS & RE BAR",
+      "imageUrl": "./media/wirerods.jpg",
+      "size2": "‎ ",
+      "details": "STANDARD : SAE 1006/1008/1010B",
+      "details2": "DIAMETER RANGE : 5.5mm to 12mm"
+     
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Hot Rolled Products",
+      "availability": "Available",
+      "name": "HOT ROLLED COILS",
+      "imageUrl": "./media/hotrolled.jpg",
+      "size2": "SIZE RANGE : 1.8mm TO 50mm",
+      "details": "GRADE : A36,Q235A/B,SS400,Q235B,45#,",
+      "details2": "AND OTHER ALL STANDARDS"
+     
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Hot Rolled Products",
+      "availability": "Available",
+      "name": "HOT ROLLED CHECKERED COILS",
+      "imageUrl": "./media/4.jpg",
+      "size2": "GRADE : A36,Q235A/B,SS400,Q235B,45#",
+      "details": "AND OTHER ALL STANDARDS",
+      "details2": "‎"
+     
+    },
+    {
+      "_id": "abc123",
+      "category": "Hot Rolled Products",
+      "availability": "Available",
+      "name": "HOT ROLLED PLATES",
+      "imageUrl": "./media/5.jpg",
+      "size2": "GRADE : A36,Q235A/B,SS400,Q235B,45#",
+      "details": ",AND OTHER ALL STANDARDS",
+      "details2": " THIKNESS: 1.3mm - 200mm"
+     
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Hot Rolled Products",
+      "availability": "Available",
+      "name": "HOT ROLLED BEAMS, I BEAMS, H BEAMS",
+      "imageUrl": "./media/6.jpg",
+      "size2": "STANDARD : GB/T706-1988",
+      "details": "GRADE : GB9787-88 Q235B",
+      "details2": "‎"
+     
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Hot Rolled Products",
+      "availability": "Available",
+      "name": "HOT ROLLED CHANNEL BAR",
+      "imageUrl": "./media/7.jpg",
+      "size2": "STANDARD: JIS G3192-2006 GRADE: JIS G3101, SS400",
+      "details": "‎",
+      "details2": "‎"
+     
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Hot Rolled Products",
+      "availability": "Available",
+      "name": "HOT ROLLED ANGLE",
+      "imageUrl": "./media/8.jpg",
+      "size2": "‎",
+      "details": "‎",
+      "details2": "‎"
+     
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Hot Rolled Products",
+      "availability": "Available",
+      "name": "HOT ROLLED FLAT BARS",
+      "imageUrl": "./media/9.jpg",
+      "size2": "GRADE : Q195-Q235",
+      "details": "‎",
+      "details2": "‎"
+     
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Hot Rolled Products",
+      "availability": "Available",
+      "name": "HOT ROLLED ROUND BARS",
+      "imageUrl": "./media/10.jpg",
+      "size2": "‎",
+      "details": "‎",
+      "details2": "‎"
+     
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Hot Rolled Products",
+      "availability": "Available",
+      "name": "CHECKERED PLATES",
+      "imageUrl": "./media/11.jpg",
+      "size2": "GRADE : A36,Q235A/B,SS400,Q235B,45#,",
+      "details": "AND OTHER ALL STANDARDS",
+      "details2": "THIKNESS: 2.8mm - 50mm"
+     
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "_id": "abc123",
+      "category": "Cold Rolled Products",
+      "availability": "Available",
+      "name": "COLD ROLLED COILS",
+      "imageUrl": "./media/crp1.jpg",
+      "size2": "GRADE: SPCC,SPCD,SPCE,DC01-06,St12",
+      "details": "STANDARD: JIS G3141-1996, EN 10131-2006,DIN EN 1002 ",
+      "details2": "  THICKNESS : 0.20mm – 3.0mm WIDTH : 600/1000/1250/1500(mm)"
+    },
+    {
+      "_id": "abc123",
+      "category": "Cold Rolled Products",
+      "availability": "Available",
+      "name": "COLD ROLLED SHEETS",
+      "imageUrl": "./media/crp2.jpg",
+      "size2": "GRADE: SPCC,SPCD,SPCE,DC01-06,St12",
+      "details": "STANDARD: JIS G3141-1996, EN 10131-2006,DIN EN 1002",
+      "details2": "THICKNESS : 0.20mm – 3.0mm | WIDTH : 600/1000/1250/1500(mm)"
+    },
+    {
+      "_id": "abc123",
+      "category": "Cold Rolled Products",
+      "availability": "Available",
+      "name": "COLD ROLLED TUBES/PIPES",
+      "imageUrl": "./media/crp3.jpg",
+      "size2": "‎",
+      "details": "‎",
+      "details2": "‎"
+    },
+
+    
+
+
+
+    {
+      "_id": "abc123",
+      "category": "Galvanized Products",
+      "availability": "Available",
+      "name": "GALVANISED COILS / SHEETS",
+      "imageUrl": "./media/gp1.jpg",
+      "size2": "‎",
+      "details": "‎",
+      "details2": "‎"
+    },
+    {
+      "_id": "abc123",
+      "category": "Galvanized Products",
+      "availability": "Available",
+      "name": "GALVANISED PIPES AND HOLLOW SECTION",
+      "imageUrl": "./media/gp2.jpg",
+      "size2": "SPANGLE , REGURAL SPANGLE   ",
+      "details": "ZERO SPANGLE, ",
+      "details2": "GRADE : Q195 , Q215 , Q235"
+    },
+    {
+      "_id": "abc123",
+      "category": "Galvanized Products",
+      "availability": "Available",
+      "name": "GALVANISED BEAMS, CHANNEL, ANGLES, FLAT",
+      "imageUrl": "./media/gp3.jpg",
+      "size2": "‎",
+      "details": "‎",
+      "details2": "‎"
+    },
+    
+
+
+  
+
+    {
+      "_id": "abc123",
+      "category": "Electro Galvanized Products",
+      "availability": "Available",
+      "name": "ELECTRO GALVANISED PIPES AND TUBES",
+      "imageUrl": "./media/egp1.jpg",
+      "size2": "Grade: SECC, SECD, SECE, etc.2)",
+      "details": "Standard: JIS G3313-1998 ASTM 1591-983)",
+      "details2": "Zinc coating weight: 16/20/25g/m24) Surface treatment: Chromate; Oil, Phosphate; Anti-finger."
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Electro Galvanized Products",
+      "availability": "Available",
+      "name": "ELECTRO GALVANISED COILS",
+      "imageUrl": "./media/egp2.jpg",
+      "size2": "Grade: SECC, SECD, SECE, etc.2)",
+      "details": "Standard: JIS G3313-1998 ASTM 1591-983)",
+      "details2": "Zinc coating weight: 16/20/25g/m24) Surface treatment: Chromate; Oil, Phosphate; Anti-finger."
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Electro Galvanized Products",
+      "availability": "Available",
+      "name": "ELECTRO GALVANISED SHEETS",
+      "imageUrl": "./media/egp3.jpg",
+      "size2": "Grade: SECC, SECD, SECE, etc.2)",
+      "details": "Standard: JIS G3313-1998 ASTM 1591-983)",
+      "details2": "Zinc coating weight: 16/20/25g/m24) Surface treatment: Chromate; Oil, Phosphate; Anti-finger."
+    },
+
+
+
+
+
+
+    {
+      "_id": "abc123",
+      "category": "Cladding_sheets",
+      "availability": "Available",
+      "name": "Perforated Sheet",
+      "imageUrl": "./media/psheet.jpg",
+      "size2": "",
+      "details": "Sheets of metal or other materials with punched holes or patterns, allowing for ventilation, filtration, or decorative applications in various industries.",
+      "details2": "Country: "
+    },
+    {
+      "_id": "abc123",
+      "category": "Cladding_sheets",
+      "availability": "Available",
+      "name": "Wall Cladding",
+      "imageUrl": "./media/wcladding.jpg",
+      "size2": "",
+      "details": "An exterior covering for walls, available in diverse materials like metal, wood, or composite, providing both decorative features and additional protection against the elements.",
+      "details2": "Country: "
+    }
+  ],
+
+
+
+
+
+
+
+  "places": [
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/rsf.jpg"
+    },
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/rsf2.jpg"
+    },
+    {
+      "_id": "abc123",
+      "imageUrl": "./media/rsf3.jpg"
+    }
+  ]
+}

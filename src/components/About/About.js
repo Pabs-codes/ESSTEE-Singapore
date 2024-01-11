@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import cimb from '../../Assets/cimb.svg'
+import cimb from '../../Assets/cimb.jpg'
 
 
 const About = () => {
@@ -31,7 +31,7 @@ const About = () => {
       <p>
        
       </p>
-      {/* <a href="https://www.cimb.com.sg/" target="_blank" rel="noopener noreferrer">Visit CIMB Singapore</a> */}
+    
     </div>
     </div>
 

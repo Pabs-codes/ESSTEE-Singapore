@@ -26,7 +26,7 @@ export const Navbar = () => {
     <section className='navBarSection' >
         <header className='header flex'>
             <div className='logoDiv'>
-                <a href='#' className='logo flex'>
+                <a href='/' className='logo flex'>
                 <img
             className="logo"
             src={logoImage}
@@ -47,24 +47,24 @@ export const Navbar = () => {
                     </li>
 
                     <li className='navItem'>
-                        <a href='#' className='navLink'>Services</a>
+                        <a href='/Services' className='navLink'>Services</a>
                     </li>
 
                     <li className='navItem'>
-                        <a href='#' className='navLink'>Products</a>
+                        <a href='/Products' className='navLink'>Products</a>
                     </li>
 
                     <li className='navItem'>
-                        <a href='#' className='navLink'> Corporation Partners</a>
+                        <a href='/Corporation' className='navLink'> Corporation Partners</a>
                     </li>
 
                     <li className='navItem'>
-                        <a href='#' className='navLink'>Contact</a>
+                        <a href='/' className='navLink'>Contact</a>
                     </li>
 
 
                     <button className='btn'>
-                        <a href="#">Call Now</a>
+                        <a href="/">Call Now</a>
                     </button>
 
       
