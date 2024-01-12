@@ -3,11 +3,11 @@ import './home.css';
 import video from '../../Assets/video.mp4';
 // import { GrLocation } from 'react-icons/gr';
 
-import { FiFacebook } from 'react-icons/fi';
-import { AiOutlineInstagram } from 'react-icons/ai';
+// import { FiFacebook } from 'react-icons/fi';
+// import { AiOutlineInstagram } from 'react-icons/ai';
 
-import { BsListTask } from 'react-icons/bs';
-import { TbApps } from 'react-icons/tb';
+// import { BsListTask } from 'react-icons/bs';
+// import { TbApps } from 'react-icons/tb';
 import Aos from 'aos';
 import 'aos/dist/aos.css';
 
@@ -68,18 +68,18 @@ const Home = () => {
          
         </div>
 
-        <div data-aos="fade-up" className="homeFooterIcons flex">
+        {/* <div data-aos="fade-up" className="homeFooterIcons flex">
           <div className="rightIcons">
             <FiFacebook className="icon" />
             <AiOutlineInstagram className="icon" />
-            {/* <FaTripadvisor className="icon" /> */}
+            <FaTripadvisor className="icon" />
           </div>
 
           <div className="leftIcons">
             <BsListTask className="icon" />
             <TbApps className="icon" />
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
