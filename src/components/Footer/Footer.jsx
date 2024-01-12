@@ -4,8 +4,7 @@ import video2 from "../../Assets/video.mp4"
 import { FiSend, FiChevronRight } from "react-icons/fi"
 import { MdOutlineTravelExplore } from 'react-icons/md'
 import { AiOutlineTwitter, AiFillYoutube, AiFillInstagram } from "react-icons/ai"
-import { FaTripadvisor } from "react-icons/fa"
-import stenco from "../../Assets/stenco logo.png"
+// import stenco from "../../Assets/stenco logo.png"
 
 import Aos from "aos"
 import 'aos/dist/aos.css'
@@ -18,11 +17,7 @@ const Footer = () => {
     Aos.init({duration: 2000})
   }, [])
 
-  const myStyle = {
-    someStyleProperty: 'someValue',
-    color: 'white',
-    padding: '2px 2px 2px 2px',
-  };
+ 
 
   return (
     <section className="footer">
@@ -48,7 +43,7 @@ const Footer = () => {
 
           <div className="footerIntro flex">
             <div className="logoDiv">
-              <a href="#" className='logo flex' >
+              <a href="/" className='logo flex' >
                 <MdOutlineTravelExplore className='icon' />ESSTEE SINGAPORE
               </a>
             </div>
@@ -174,9 +169,9 @@ const Footer = () => {
 
           <div className="footerDiv flex">
             <small>© 2024 ESSTEE SINGAPORE PTE Ltd. All rights reserved.</small>
-           <small className='small2'>Designed and developed by Pabs-Codes |  <a href="https://www.linkedin.com/in/pabasara-navod/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
+           {/* <small className='small2'>Designed and developed by Pabs-Codes |  <a href="https://www.linkedin.com/in/pabasara-navod/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
     StencoITC  <img src={stenco} alt="StencoITC Logo" className="stenco-logo" />
-         </small>
+         </small> */}
      
        
           </div>

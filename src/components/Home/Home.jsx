@@ -2,10 +2,10 @@ import React, { useEffect } from 'react';
 import './home.css';
 import video from '../../Assets/video.mp4';
 // import { GrLocation } from 'react-icons/gr';
-import { HiFilter } from 'react-icons/hi';
+
 import { FiFacebook } from 'react-icons/fi';
 import { AiOutlineInstagram } from 'react-icons/ai';
-import { FaTripadvisor } from 'react-icons/fa';
+
 import { BsListTask } from 'react-icons/bs';
 import { TbApps } from 'react-icons/tb';
 import Aos from 'aos';
