@@ -83,112 +83,104 @@ const Products = () => {
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => handleCategoryClick('')}
+            className={`products__item ${filter === 'Wire Products' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Wire Products')}
             data-filter=""
           >
             <h3 className="products__title">Wire Products</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => handleCategoryClick('')}
+            className={`products__item ${filter === 'Scaffolding Products' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Scaffolding Products')}
             data-filter=""
           >
             <h3 className="products__title">Scaffolding Products</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => handleCategoryClick('')}
-            data-filter=""
-          >
-            <h3 className="products__title">Cladding Sheets</h3>
-          </li>
-
-          <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => setFilter('Cladding_sheets')}
+            className={`products__item ${filter === 'Pre Painted Coils' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Pre Painted Coils')}
             data-filter=""
           >
             <h3 className="products__title">Pre Painted Coils</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => setFilter('Cladding_sheets')}
+            className={`products__item ${filter === 'ALUMINIUM Products' && 'active-product'}`}
+            onClick={() => handleCategoryClick('ALUMINIUM Products')}
             data-filter=""
           >
-            <h3 className="products__title">Aluminium Sheets</h3>
+            <h3 className="products__title">Aluminium Products</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => setFilter('Cladding_sheets')}
+            className={`products__item ${filter === 'Pipes Products' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Pipes Products')}
             data-filter=""
           >
             <h3 className="products__title">Pipes Products</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => setFilter('Cladding_sheets')}
+            className={`products__item ${filter === 'Stainless Steel' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Stainless Steel')}
             data-filter=""
           >
             <h3 className="products__title">Stainless Steel</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => setFilter('Cladding_sheets')}
+            className={`products__item ${filter === 'Bolts, Nuts & Nails' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Bolts, Nuts & Nails')}
             data-filter=""
           >
             <h3 className="products__title">Bold, Nuts & nails</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => setFilter('Cladding_sheets')}
+            className={`products__item ${filter === 'Hardware Products' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Hardware Products')}
             data-filter=""
           >
             <h3 className="products__title">Hardware Products</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => setFilter('Cladding_sheets')}
+            className={`products__item ${filter === 'Glass Products' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Glass Products')}
             data-filter=""
           >
             <h3 className="products__title">Glass Products</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => setFilter('Cladding_sheets')}
+            className={`products__item ${filter === 'Ceramic' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Ceramic')}
             data-filter=""
           >
             <h3 className="products__title">Ceramic</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => setFilter('Cladding_sheets')}
+            className={`products__item ${filter === 'Machinery' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Machinery')}
             data-filter=""
           >
             <h3 className="products__title">Machinery</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => setFilter('Cladding_sheets')}
+            className={`products__item ${filter === 'Chemical' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Chemical')}
             data-filter=""
           >
             <h3 className="products__title">Chemical</h3>
           </li>
 
           <li
-            className={`products__item ${filter === 'Cladding_sheets' && 'active-product'}`}
-            onClick={() => setFilter('Cladding_sheets')}
+            className={`products__item ${filter === 'Building Materials' && 'active-product'}`}
+            onClick={() => handleCategoryClick('Building Materials')}
             data-filter=""
           >
             <h3 className="products__title">Building Materials</h3>

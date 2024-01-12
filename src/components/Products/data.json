@@ -213,6 +213,12 @@
 
   
 
+
+
+
+
+
+
     {
       "_id": "abc123",
       "category": "Electro Galvanized Products",
@@ -251,26 +257,823 @@
 
 
 
+
+
+
+
+
+
+
+
     {
       "_id": "abc123",
-      "category": "Cladding_sheets",
+      "category": "Wire Products",
       "availability": "Available",
-      "name": "Perforated Sheet",
-      "imageUrl": "./media/psheet.jpg",
+      "name": "WSTEEL BALING & PRESTRESSED CONCRETE STEEL WIRE",
+      "imageUrl": "./media/wp1.jpg",
       "size2": "",
-      "details": "Sheets of metal or other materials with punched holes or patterns, allowing for ventilation, filtration, or decorative applications in various industries.",
-      "details2": "Country: "
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "STEEL WIRE ROPE",
+      "imageUrl": "./media/wp2.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "GALVANIZED STEEL WIRE & STRAND FOR ACSR",
+      "imageUrl": "./media/wp3.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "GALVANIZED STEEL WIRE FOR CABLE ARMOURING & GALFAN STEEL WIRE & STRAND",
+      "imageUrl": "./media/wp4.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "IRON & STEEL WIRE",
+      "imageUrl": "./media/wp5.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "STEEL WIRE FOR MESH & FENCE & STEEL WIRE FOR OPTICAL CABLE",
+      "imageUrl": "./media/wp6.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "NAIL WIRE, STAPLE WIRE, BRUSH WIRE",
+      "imageUrl": "./media/wp7.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "PVC COATED/ GLUED WIRE & SMALL COIL WIRE",
+      "imageUrl": "./media/wp9.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "GARDEN FLAT WIRE/ STRAIGHTENED CUT WIRE / STICK SPOOL WIRE",
+      "imageUrl": "./media/wp10.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "RAZOR BARBED WIRE FENCE & GALVANIZED / PVC COATED BARBED WIRE",
+      "imageUrl": "./media/wp11.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "WIRE MESH",
+      "imageUrl": "./media/wp13.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "FENCE PANELS & GARDEN GATE",
+      "imageUrl": "./media/wp14.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "GALVANIZED & PVC COATED WELDED MESH & STEEL BAR WELDED MESH",
+      "imageUrl": "./media/wp15.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "EURO FENCE & BORDER FENCE",
+      "imageUrl": "./media/wp16.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "SQUARE WIRE MESH",
+      "imageUrl": "./media/wp17.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Wire Products",
+      "availability": "Available",
+      "name": "CHAINLINK FENCE & FIELD FENCE NETTING",
+      "imageUrl": "./media/wp18.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "_id": "abc123",
+      "category": "Scaffolding Products",
+      "availability": "Available",
+      "name": "ADJUSTABLE SHORING PROP",
+      "imageUrl": "./media/sp1.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Scaffolding Products",
+      "availability": "Available",
+      "name": "SPANISH & ITALY TYPE PROP",
+      "imageUrl": "./media/sp2.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Scaffolding Products",
+      "availability": "Available",
+      "name": "MIDDLE EAST & GERMANY TYPE & PUSH - PULL PROP",
+      "imageUrl": "./media/sp3.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Scaffolding Products",
+      "availability": "Available",
+      "name": "GATE FRAME & LADDER FRAME",
+      "imageUrl": "./media/sp4.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Scaffolding Products",
+      "availability": "Available",
+      "name": "RINGLOCK & CUPLOCK SCAFFOLDING",
+      "imageUrl": "./media/sp5.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Scaffolding Products",
+      "availability": "Available",
+      "name": "SCAFFOLDING ACCESSORIES",
+      "imageUrl": "./media/sp6.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+
+    {
+      "_id": "abc123",
+      "category": "Scaffolding Products",
+      "availability": "Available",
+      "name": "SCAFFOLDING ACCESSORIES",
+      "imageUrl": "./media/sp7.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Scaffolding Products",
+      "availability": "Available",
+      "name": "FORMWORK ACCESSORIES",
+      "imageUrl": "./media/sp8.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "_id": "abc123",
+      "category": "Pre Painted Coils",
+      "availability": "Available",
+      "name": "PRE PAINTED GALVANIZED COILS",
+      "imageUrl": "./media/ppc1.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    }
+,
+    
+    {
+      "_id": "abc123",
+      "category": "Pre Painted Coils",
+      "availability": "Available",
+      "name": "PRE PAINTED GALVALUME COILS",
+      "imageUrl": "./media/ppc2.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    }
+
+   , 
+    {
+      "_id": "abc123",
+      "category": "Pre Painted Coils",
+      "availability": "Available",
+      "name": "PRE PAINTED ALUMINIUM COILS",
+      "imageUrl": "./media/ppc3.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "_id": "abc123",
+      "category": "ALUMINIUM Products",
+      "availability": "Available",
+      "name": "ALUMINIUM COILS",
+      "imageUrl": "./media/as.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
     },
     {
       "_id": "abc123",
-      "category": "Cladding_sheets",
+      "category": "ALUMINIUM Products",
       "availability": "Available",
-      "name": "Wall Cladding",
-      "imageUrl": "./media/wcladding.jpg",
+      "name": "ALUMINIUM SHEETS",
+      "imageUrl": "./media/as2.jpg",
       "size2": "",
-      "details": "An exterior covering for walls, available in diverse materials like metal, wood, or composite, providing both decorative features and additional protection against the elements.",
-      "details2": "Country: "
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "ALUMINIUM Products",
+      "availability": "Available",
+      "name": "ALUMINIUM CHECKERED SHEET",
+      "imageUrl": "./media/as3.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "ALUMINIUM Products",
+      "availability": "Available",
+      "name": "ALUMINIUM ROD",
+      "imageUrl": "./media/as4.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "_id": "abc123",
+      "category": "Pipes Products",
+      "availability": "Available",
+      "name": "STEAM PIPES",
+      "imageUrl": "./media/pp1.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    
+    {
+      "_id": "abc123",
+      "category": "Pipes Products",
+      "availability": "Available",
+      "name": "SEMLESS PIPES",
+      "imageUrl": "./media/pp2.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    
+    {
+      "_id": "abc123",
+      "category": "Pipes Products",
+      "availability": "Available",
+      "name": "OIL PIPES",
+      "imageUrl": "./media/pp3.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Pipes Products",
+      "availability": "Available",
+      "name": "GAS PIPES",
+      "imageUrl": "./media/pp4.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+    
+    {
+      "_id": "abc123",
+      "category": "Pipes Products",
+      "availability": "Available",
+      "name": "SCHEDULE 40/60/80 PIPES",
+      "imageUrl": "./media/pp5.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    
+    {
+      "_id": "abc123",
+      "category": "Pipes Products",
+      "availability": "Available",
+      "name": "HOLLOW PIPE",
+      "imageUrl": "./media/pp6.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    
+    {
+      "_id": "abc123",
+      "category": "Pipes Products",
+      "availability": "Available",
+      "name": "HOT DIP GALVANIZED PIPES",
+      "imageUrl": "./media/pp7.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    
+    {
+      "_id": "abc123",
+      "category": "Pipes Products",
+      "availability": "Available",
+      "name": "PRE GALVANIZED PIPE",
+      "imageUrl": "./media/pp8.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "_id": "abc123",
+      "category": "Stainless Steel",
+      "availability": "Available",
+      "name": "STAINLESS COILS",
+      "imageUrl": "./media/ss1.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+    {
+      "_id": "abc123",
+      "category": "Stainless Steel",
+      "availability": "Available",
+      "name": "STAINLESS SHEETS",
+      "imageUrl": "./media/ss2.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Stainless Steel",
+      "availability": "Available",
+      "name": "STAINLESS ANGLE",
+      "imageUrl": "./media/ss3.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Stainless Steel",
+      "availability": "Available",
+      "name": "STAINLESS FLAT BAR",
+      "imageUrl": "./media/ss4.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Stainless Steel",
+      "availability": "Available",
+      "name": "STAINLESS CHANNEL",
+      "imageUrl": "./media/ss5.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Stainless Steel",
+      "availability": "Available",
+      "name": "STAINLESS ROD",
+      "imageUrl": "./media/ss6.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+    {
+      "_id": "abc123",
+      "category": "Stainless Steel",
+      "availability": "Available",
+      "name": "STAINLESS WIRE",
+      "imageUrl": "./media/ss7.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+      {
+        "_id": "abc123",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "HEXAGON HEAD BOLTS",
+        "imageUrl": "./media/bn1.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "def456",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "HEXAGON SOCKET HEAD CAP SCREWS",
+        "imageUrl": "./media/bn2.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ghi789",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "SELF TAPPING SCREWS",
+        "imageUrl": "./media/bn3.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "jkl012",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "MACHINE SCREWS",
+        "imageUrl": "./media/bn4.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "mno345",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "ORDINARY THREADED ROD",
+        "imageUrl": "./media/bn5.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "pqr678",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "LAG SCREW SHIELDS",
+        "imageUrl": "./media/bn6.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "stu901",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "HEX COUPLING NUTS",
+        "imageUrl": "./media/bn7.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "vwx234",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "HEXAGON NUTS",
+        "imageUrl": "./media/bn8.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "yzab56",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "FLAT WASHERS",
+        "imageUrl": "./media/bn9.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "cd1234",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "WORM DRIVE HOSE CLIP",
+        "imageUrl": "./media/bn10.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ef5678",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "HINGES",
+        "imageUrl": "./media/bn11.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "gh9012",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "CASTERS",
+        "imageUrl": "./media/bn12.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Bolts, Nuts & Nails",
+        "availability": "Available",
+        "name": "WELDED CHAIN",
+        "imageUrl": "./media/bn13.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "_id": "ij3456",
+        "category": "Hardware Products",
+        "availability": "Available",
+        "name": "POWER TOOLS",
+        "imageUrl": "./media/hp1.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Hardware Products",
+        "availability": "Available",
+        "name": "SHOVEL",
+        "imageUrl": "./media/hp2.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Hardware Products",
+        "availability": "Available",
+        "name": "WHEEL BORROW",
+        "imageUrl": "./media/hp3.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+     
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "_id": "abc123",
+      "category": "ALUMINIUM Products",
+      "availability": "Available",
+      "name": "ALUMINIUM CHECKERED SHEET",
+      "imageUrl": "./media/as3.jpg",
+      "size2": "",
+      "details": "",
+      "details2": ""
     }
+
   ],
 
 
