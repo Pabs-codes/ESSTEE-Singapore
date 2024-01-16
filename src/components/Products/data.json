@@ -1218,7 +1218,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Citrate",
-          "imageUrl": "./media/c1.png",
+          "imageUrl": "./media/c1.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1228,7 +1228,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Citric Acid Monohydrate",
-          "imageUrl": "./media/c2.png",
+          "imageUrl": "./media/c2.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1238,7 +1238,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Citric Acid Anhydrous",
-          "imageUrl": "./media/c3.png",
+          "imageUrl": "./media/c3.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1248,7 +1248,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Ammonium Chloride",
-          "imageUrl": "./media/c4.png",
+          "imageUrl": "./media/c4.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1258,7 +1258,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Potassium Hydroxide / Caustic Potash",
-          "imageUrl": "./media/c5.png",
+          "imageUrl": "./media/c5.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1268,7 +1268,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Potassium Nitrate / Potassium Carbonate",
-          "imageUrl": "./media/c6.png",
+          "imageUrl": "./media/c6.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1278,7 +1278,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Ammonium Bicarbonate",
-          "imageUrl": "./media/c7.png",
+          "imageUrl": "./media/c7.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1288,7 +1288,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Bicarbonate",
-          "imageUrl": "./media/c8.png",
+          "imageUrl": "./media/c8.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1298,7 +1298,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Metabisulfite",
-          "imageUrl": "./media/c9.png",
+          "imageUrl": "./media/c9.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1308,7 +1308,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Soda Ash (Light/Dense)",
-          "imageUrl": "./media/c10.png",
+          "imageUrl": "./media/c10.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1318,7 +1318,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Caustic Soda Flakes",
-          "imageUrl": "./media/c11.png",
+          "imageUrl": "./media/c11.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1328,7 +1328,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Caustic Soda Pearls",
-          "imageUrl": "./media/c12.png",
+          "imageUrl": "./media/c12.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1338,7 +1338,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Sulphate Anhydrous (Feed)",
-          "imageUrl": "./media/c13.png",
+          "imageUrl": "./media/c13.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1348,7 +1348,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Carbonate Light",
-          "imageUrl": "./media/c14.png",
+          "imageUrl": "./media/c14.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1358,7 +1358,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Carbonate Dense",
-          "imageUrl": "./media/c15.png",
+          "imageUrl": "./media/c15.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1368,7 +1368,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Calcium Chloride Flakes",
-          "imageUrl": "./media/c16.png",
+          "imageUrl": "./media/c16.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1378,7 +1378,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Caustic Soda (Flakes)",
-          "imageUrl": "./media/c17.png",
+          "imageUrl": "./media/c17.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1388,7 +1388,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Caustic Soda (Pearls)",
-          "imageUrl": "./media/c18.png",
+          "imageUrl": "./media/c18.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1398,7 +1398,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Sulphate Anhydrous (Industrial)",
-          "imageUrl": "./media/c19.png",
+          "imageUrl": "./media/c19.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1408,7 +1408,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Sulphate Anhydrous (Feed)",
-          "imageUrl": "./media/c20.png",
+          "imageUrl": "./media/c20.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1418,7 +1418,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Carbonate (Light)",
-          "imageUrl": "./media/c21.png",
+          "imageUrl": "./media/c21.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1428,7 +1428,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Carbonate (Dense)",
-          "imageUrl": "./media/c22.png",
+          "imageUrl": "./media/c22.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1438,7 +1438,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Bicarbonate (Industrial)",
-          "imageUrl": "./media/c23.png",
+          "imageUrl": "./media/c23.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1448,7 +1448,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Bicarbonate (Food Grade)",
-          "imageUrl": "./media/c24.png",
+          "imageUrl": "./media/c24.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1458,7 +1458,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Calcium Chloride (Flakes)",
-          "imageUrl": "./media/c25.png",
+          "imageUrl": "./media/c25.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1468,7 +1468,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Calcium Chloride (Pellet)",
-          "imageUrl": "./media/c26.png",
+          "imageUrl": "./media/c26.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1478,7 +1478,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Silicate (Bulk)",
-          "imageUrl": "./media/c27.png",
+          "imageUrl": "./media/c27.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1488,7 +1488,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Silicate (Powder)",
-          "imageUrl": "./media/c28.png",
+          "imageUrl": "./media/c28.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1498,7 +1498,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Silicate (Powder)",
-          "imageUrl": "./media/c29.png",
+          "imageUrl": "./media/c29.jpg",
           "size2": "",
           "details": "",
           "details2": ""
@@ -1508,7 +1508,7 @@
           "category": "Chemical",
           "availability": "Available",
           "name": "Sodium Silicate (Liquid)",
-          "imageUrl": "./media/c30.png",
+          "imageUrl": "./media/c30.jpg",
           "size2": "",
           "details": "",
           "details2": ""

@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 import './Products.css';
 
 const Products = () => {
-  const [filter, setFilter] = useState('Hot Rolled Products');
+  const [filter, setFilter] = useState('Chemical');
   const [isVisible, setIsVisible] = useState(false);
   const [selectedCategory, setSelectedCategory] = useState('');
  
