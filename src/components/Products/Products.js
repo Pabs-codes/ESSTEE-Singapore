@@ -146,20 +146,13 @@ const Products = () => {
             <h3 className="products__title">Hardware Products</h3>
           </li>
 
-          <li
-            className={`products__item ${filter === 'Glass Products' && 'active-product'}`}
-            onClick={() => handleCategoryClick('Glass Products')}
-            data-filter=""
-          >
-            <h3 className="products__title">Glass Products</h3>
-          </li>
 
           <li
             className={`products__item ${filter === 'Ceramic' && 'active-product'}`}
             onClick={() => handleCategoryClick('Ceramic')}
             data-filter=""
           >
-            <h3 className="products__title">Ceramic</h3>
+            <h3 className="products__title">Ceramic products</h3>
           </li>
 
           <li

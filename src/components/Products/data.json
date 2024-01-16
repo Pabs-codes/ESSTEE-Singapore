@@ -1041,6 +1041,489 @@
 
 
 
+      {
+        "_id": "ij3456",
+        "category": "Ceramic",
+        "availability": "Available",
+        "name": "ONE PIE TOILETS SERIES",
+        "imageUrl": "./media/cp.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Ceramic",
+        "availability": "Available",
+        "name": "PEDESTAL BASIN SERIES",
+        "imageUrl": "./media/cp2.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Ceramic",
+        "availability": "Available",
+        "name": "WALL- HUNG PEDESTAL BASIN SERIES",
+        "imageUrl": "./media/cp3.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Ceramic",
+        "availability": "Available",
+        "name": "ABOVE COUNTER SERIES",
+        "imageUrl": "./media/cp4.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Ceramic",
+        "availability": "Available",
+        "name": "URINAL SERIES",
+        "imageUrl": "./media/cp5.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Ceramic",
+        "availability": "Available",
+        "name": "BATHROOM FURNITURE SERIES",
+        "imageUrl": "./media/cp6.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "_id": "ij3456",
+        "category": "Machinery",
+        "availability": "Available",
+        "name": "Roll Forming Machine",
+        "imageUrl": "./media/m.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Machinery",
+        "availability": "Available",
+        "name": "Sheet Cutting Machine",
+        "imageUrl": "./media/m2.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Machinery",
+        "availability": "Available",
+        "name": "Steel Bending Machine",
+        "imageUrl": "./media/m3.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Machinery",
+        "availability": "Available",
+        "name": "CHAIN LINK FENCE MACHINE",
+        "imageUrl": "./media/m4.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Machinery",
+        "availability": "Available",
+        "name": "C-PURLIN MACHINE",
+        "imageUrl": "./media/m5.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Machinery",
+        "availability": "Available",
+        "name": "NAIL MAKING MACHINE ",
+        "imageUrl": "./media/m6.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Machinery",
+        "availability": "Available",
+        "name": "PRESS BRAKE MACHINES",
+        "imageUrl": "./media/m7.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+      {
+        "_id": "ij3456",
+        "category": "Machinery",
+        "availability": "Available",
+        "name": "SLITTING MACHINE",
+        "imageUrl": "./media/m8.jpg",
+        "size2": "",
+        "details": "",
+        "details2": ""
+      },
+
+
+
+
+
+
+
+
+
+
+      
+        {
+          "_id": "ij3456",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Metasilicate Pentahydrate",
+          "imageUrl": "./media/c.jpg",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3457",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Citrate",
+          "imageUrl": "./media/c1.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3458",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Citric Acid Monohydrate",
+          "imageUrl": "./media/c2.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3459",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Citric Acid Anhydrous",
+          "imageUrl": "./media/c3.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3460",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Ammonium Chloride",
+          "imageUrl": "./media/c4.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3461",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Potassium Hydroxide / Caustic Potash",
+          "imageUrl": "./media/c5.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3462",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Potassium Nitrate / Potassium Carbonate",
+          "imageUrl": "./media/c6.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3463",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Ammonium Bicarbonate",
+          "imageUrl": "./media/c7.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3464",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Bicarbonate",
+          "imageUrl": "./media/c8.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3465",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Metabisulfite",
+          "imageUrl": "./media/c9.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3466",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Soda Ash (Light/Dense)",
+          "imageUrl": "./media/c10.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3467",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Caustic Soda Flakes",
+          "imageUrl": "./media/c11.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3468",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Caustic Soda Pearls",
+          "imageUrl": "./media/c12.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3469",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Sulphate Anhydrous (Feed)",
+          "imageUrl": "./media/c13.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3470",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Carbonate Light",
+          "imageUrl": "./media/c14.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3471",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Carbonate Dense",
+          "imageUrl": "./media/c15.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3472",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Calcium Chloride Flakes",
+          "imageUrl": "./media/c16.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3473",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Caustic Soda (Flakes)",
+          "imageUrl": "./media/c17.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3474",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Caustic Soda (Pearls)",
+          "imageUrl": "./media/c18.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3475",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Sulphate Anhydrous (Industrial)",
+          "imageUrl": "./media/c19.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3476",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Sulphate Anhydrous (Feed)",
+          "imageUrl": "./media/c20.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3477",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Carbonate (Light)",
+          "imageUrl": "./media/c21.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+        },
+        {
+          "_id": "ij3478",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Carbonate (Dense)",
+          "imageUrl": "./media/c22.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+          },
+          {
+          "_id": "ij3479",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Bicarbonate (Industrial)",
+          "imageUrl": "./media/c23.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+          },
+          {
+          "_id": "ij3480",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Bicarbonate (Food Grade)",
+          "imageUrl": "./media/c24.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+          },
+          {
+          "_id": "ij3481",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Calcium Chloride (Flakes)",
+          "imageUrl": "./media/c25.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+          },
+          {
+          "_id": "ij3482",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Calcium Chloride (Pellet)",
+          "imageUrl": "./media/c26.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+          },
+          {
+          "_id": "ij3483",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Silicate (Bulk)",
+          "imageUrl": "./media/c27.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+          },
+          {
+          "_id": "ij3484",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Silicate (Powder)",
+          "imageUrl": "./media/c28.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+          },
+          {
+          "_id": "ij3485",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Silicate (Powder)",
+          "imageUrl": "./media/c29.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+          },
+          {
+          "_id": "ij3486",
+          "category": "Chemical",
+          "availability": "Available",
+          "name": "Sodium Silicate (Liquid)",
+          "imageUrl": "./media/c30.png",
+          "size2": "",
+          "details": "",
+          "details2": ""
+          },
+          
+      
+
+
+
+
+
+
+
+
+
 
 
 
