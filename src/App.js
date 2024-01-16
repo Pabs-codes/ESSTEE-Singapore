@@ -11,6 +11,9 @@ export default function App() {
       <Route exact path="/AboutR" element={<AboutR/>} />
       <Route exact path="/ServicesR" element={<ServicesR/>} />
       <Route exact path="/ProductsR" element={<ProductsR/>} />
+      <Route exact path="/CorporationR" element={<ProductsR/>} />
+      <Route exact path="/ContactR" element={<ProductsR/>} />
+
 
     </Routes>
   );
