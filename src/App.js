@@ -3,6 +3,7 @@ import HomeR from "./routes/HomeR";
 import { Route, Routes } from "react-router-dom";
 import ServicesR from "./routes/ServicesR";
 import ProductsR from "./routes/ProductsR";
+import CorporationR from "./routes/CorporationR";
 
 export default function App() {
   return (
@@ -11,6 +12,7 @@ export default function App() {
       <Route path="/About" element={<AboutR />} />
       <Route path="/Services" element={<ServicesR />} />
       <Route path="/Products" element={<ProductsR />} />
+      <Route path="/Corporation" element={<CorporationR/>}/>
 
     </Routes>
   );

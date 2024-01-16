@@ -1,0 +1,37 @@
+
+
+/* Basic styles for the container */
+.corporation-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    padding: 50px;
+    /* height: 100vh; */
+  }
+  
+  /* Style for the image */
+  .corporation-image {
+    max-width: 80%;
+    max-height: 80%;
+    margin-top: 50px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(255, 2, 2, 0.8);   
+
+  }
+  
+  /* Media queries for responsive design */
+  @media (max-width: 768px) {
+    .corporation-image {
+      /* Adjust styles for screens with a maximum width of 768px */
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .corporation-image {
+      /* Adjust styles for screens with a maximum width of 576px */
+    }
+  }
+  
+  /* Add more media queries as needed for different screen sizes */
+  
