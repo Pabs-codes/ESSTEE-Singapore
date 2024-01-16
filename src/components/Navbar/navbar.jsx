@@ -42,8 +42,28 @@ export const Navbar = () => {
                 About Us
               </Link>
             </li>
+ 
+            <li className="navItem">
+              <Link to="/Services" className="navLink">
+              Services
+              </Link>
+            </li>
 
-            {/* Add similar changes for other navigation links */}
+
+            <li className="navItem">
+              <Link to="/Products" className="navLink">
+              Products
+              </Link>
+            </li>
+
+            <li className="navItem">
+              <Link to="/Corporation" className="navLink">
+              Corporation Partners
+              </Link>
+            </li>
+
+
+     
 
             <button className="btn">
               <Link to="/">Call Now</Link>
