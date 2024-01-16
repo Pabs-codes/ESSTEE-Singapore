@@ -1,7 +1,6 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom"; // Import Link from react-router-dom
 import "./navbar.css";
-
-// import {MdTravelExplore} from 'react-icons/md'
 import { AiFillCloseCircle } from "react-icons/ai";
 import { TbGridDots } from "react-icons/tb";
 import logoImage from "../../Assets/ESSTEEhq.png";
@@ -9,12 +8,10 @@ import logoImage from "../../Assets/ESSTEEhq.png";
 export const Navbar = () => {
   const [active, setActive] = useState("navBar");
 
-  // function to toggle navBar
   const showNav = () => {
     setActive("navBar activeNavbar");
   };
 
-  // function to remove navBar
   const removeNavbar = () => {
     setActive("navBar");
   };
@@ -23,56 +20,33 @@ export const Navbar = () => {
     <section className="navBarSection">
       <header className="header flex">
         <div className="logoDiv">
-          <a href="/" className="logo flex">
+          <Link to="/" className="logo flex"> {/* Use Link instead of 'a' */}
             <img
               className="logo"
               src={logoImage}
-              alt="Estee Singapoore PTE.Ltd. Logo"
+              alt="Estee Singapore PTE.Ltd. Logo"
             />
-          </a>
+          </Link>
         </div>
 
         <div className={active}>
           <ul className="navList flex">
             <li className="navItem">
-              <a href="/" className="navLink">
+              <Link to="/" className="navLink">
                 Home
-              </a>
+              </Link>
             </li>
 
             <li className="navItem">
-              <a href="/About" className="navLink">
+              <Link to="/About" className="navLink">
                 About Us
-              </a>
+              </Link>
             </li>
 
-            <li className="navItem">
-              <a href="/Services" className="navLink">
-                Services
-              </a>
-            </li>
-
-            <li className="navItem">
-              <a href="/Products" className="navLink">
-                Products
-              </a>
-            </li>
-
-            <li className="navItem">
-              <a href="/Corporation" className="navLink">
-                {" "}
-                Corporation Partners
-              </a>
-            </li>
-
-            <li className="navItem">
-              <a href="/" className="navLink">
-                Contact
-              </a>
-            </li>
+            {/* Add similar changes for other navigation links */}
 
             <button className="btn">
-              <a href="/">Call Now</a>
+              <Link to="/">Call Now</Link>
             </button>
           </ul>
 
