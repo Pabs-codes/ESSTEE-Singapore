@@ -43,19 +43,19 @@ export const Navbar = () => {
                     </li>
 
                     <li className='navItem'>
-                        <a href='/About' className='navLink'>About Us</a>
+                        <a href='/AboutR' className='navLink'>About Us</a>
                     </li>
 
                     <li className='navItem'>
-                        <a href='/' className='navLink'>Services</a>
+                        <a href='/ServicesR' className='navLink'>Services</a>
                     </li>
 
                     <li className='navItem'>
-                        <a href='/Products' className='navLink'>Products</a>
+                        <a href='/ProductsR' className='navLink'>Products</a>
                     </li>
 
                     <li className='navItem'>
-                        <a href='/Corporation' className='navLink'> Corporation Partners</a>
+                        <a href='/CorporationR' className='navLink'> Corporation Partners</a>
                     </li>
 
                     <li className='navItem'>

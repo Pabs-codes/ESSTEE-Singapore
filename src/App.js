@@ -8,9 +8,9 @@ export default function App() {
   return (
     <Routes>
       <Route path="/" element={<HomeR />} />
-      <Route exact path="/About" element={<AboutR/>} />
-      <Route exact path="/Services" element={<ServicesR/>} />
-      <Route exact path="/Products" element={<ProductsR/>} />
+      <Route exact path="/AboutR" element={<AboutR/>} />
+      <Route exact path="/ServicesR" element={<ServicesR/>} />
+      <Route exact path="/ProductsR" element={<ProductsR/>} />
 
     </Routes>
   );
