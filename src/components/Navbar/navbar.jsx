@@ -59,7 +59,7 @@ export const Navbar = () => {
                     </li>
 
                     <li className='navItem'>
-                        <a href='/' className='navLink'>Contact</a>
+                        <a href='/ContactR' className='navLink'>Contact</a>
                     </li>
 
 
