@@ -1,5 +1,4 @@
-
-
+/* Your existing styles for other elements */
 
 @keyframes iconZoom {
     0% {
@@ -13,12 +12,12 @@
     }
   }
   
-  
   .waicon-container {
     display: flex;
     align-items: center;
     z-index: 1000;
   }
+  
   .waicon {
     position: fixed;
     top: 200px;
@@ -28,14 +27,14 @@
     padding: 0;
     border-radius: 20%;
     transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
-    animation: iconZoom 1s infinite; 
+    animation: iconZoom 1s infinite;
     z-index: 1000;
   }
   
   .waicon:hover {
     border-radius: 20px;
     transform: scale(1.2);
-    animation: iconZoom 0.4s infinite; 
+    animation: iconZoom 0.4s infinite;
   }
   
   .waicon a {
@@ -49,7 +48,6 @@
     z-index: 1000;
     height: auto;
   }
-  
   
   @keyframes popup {
     0% {
@@ -65,6 +63,7 @@
       transform: translateY(-20px);
     }
   }
+  
   .help-text {
     position: fixed;
     right: 80px;
@@ -77,7 +76,28 @@
     border-radius: 20%;
     animation: popup 8s ease-in-out;
     z-index: 1000;
-  
   }
   
+  /* Media Queries */
+  
+  @media screen and (max-width: 768px) {
+    .waicon-container {
+      display: block; /* Adjust for smaller screens */
+    }
+  
+    .waicon {
+      position: static; /* Adjust for smaller screens */
+      margin-top: 10px; /* Adjust for smaller screens */
+    }
+  
+    .waicon:hover {
+      transform: scale(1); /* Disable animation for smaller screens */
+    }
+  
+    .help-text {
+      display: none; /* Hide for smaller screens */
+    }
+  }
+  
+  /* Add more media queries as needed for different screen sizes */
   
