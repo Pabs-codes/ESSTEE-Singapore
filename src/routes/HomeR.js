@@ -9,6 +9,8 @@ import Card from '../components/Slider/Slider';
 
 
 import img from '../Assets/VM.png';
+import ScrollToTopButton from '../components/Uconstruction/ScrollToTopButton';
+import Whatsapp from '../components/Uconstruction/Whatsapp';
 // import logoImage from './Assets/ESSTEEhq.png';
 
 function HomeR() {
@@ -30,9 +32,12 @@ function HomeR() {
         "
       />
       <Main />
+      
     
    
       <Footer />
+      <ScrollToTopButton/>
+      <Whatsapp/>
    </>  
   );
 }

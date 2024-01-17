@@ -1347,22 +1347,13 @@
           "_id": "ij3470",
           "category": "Chemical",
           "availability": "Available",
-          "name": "Sodium Carbonate Light",
+          "name": "Sodium Carbonate   Light / Dense",
           "imageUrl": "./media/c14.jpg",
           "size2": "",
           "details": "",
           "details2": ""
         },
-        {
-          "_id": "ij3471",
-          "category": "Chemical",
-          "availability": "Available",
-          "name": "Sodium Carbonate Dense",
-          "imageUrl": "./media/c15.jpg",
-          "size2": "",
-          "details": "",
-          "details2": ""
-        },
+      
         {
           "_id": "ij3472",
           "category": "Chemical",
@@ -1413,107 +1404,40 @@
           "details": "",
           "details2": ""
         },
-        {
-          "_id": "ij3477",
-          "category": "Chemical",
-          "availability": "Available",
-          "name": "Sodium Carbonate (Light)",
-          "imageUrl": "./media/c21.jpg",
-          "size2": "",
-          "details": "",
-          "details2": ""
-        },
-        {
-          "_id": "ij3478",
-          "category": "Chemical",
-          "availability": "Available",
-          "name": "Sodium Carbonate (Dense)",
-          "imageUrl": "./media/c22.jpg",
-          "size2": "",
-          "details": "",
-          "details2": ""
-          },
           {
           "_id": "ij3479",
           "category": "Chemical",
           "availability": "Available",
-          "name": "Sodium Bicarbonate (Industrial)",
+          "name": "Sodium Bicarbonate (Industrial / Food Grade )",
           "imageUrl": "./media/c23.jpg",
           "size2": "",
           "details": "",
           "details2": ""
           },
-          {
-          "_id": "ij3480",
-          "category": "Chemical",
-          "availability": "Available",
-          "name": "Sodium Bicarbonate (Food Grade)",
-          "imageUrl": "./media/c24.jpg",
-          "size2": "",
-          "details": "",
-          "details2": ""
-          },
+       
           {
           "_id": "ij3481",
           "category": "Chemical",
           "availability": "Available",
-          "name": "Calcium Chloride (Flakes)",
+          "name": "Calcium Chloride (Flakes / Pellet)",
           "imageUrl": "./media/c25.jpg",
           "size2": "",
           "details": "",
           "details2": ""
           },
-          {
-          "_id": "ij3482",
-          "category": "Chemical",
-          "availability": "Available",
-          "name": "Calcium Chloride (Pellet)",
-          "imageUrl": "./media/c26.jpg",
-          "size2": "",
-          "details": "",
-          "details2": ""
-          },
+  
           {
           "_id": "ij3483",
           "category": "Chemical",
           "availability": "Available",
-          "name": "Sodium Silicate (Bulk)",
+          "name": "Sodium Silicate (Bulk / Powder / Liquid)",
           "imageUrl": "./media/c27.jpg",
           "size2": "",
           "details": "",
           "details2": ""
           },
-          {
-          "_id": "ij3484",
-          "category": "Chemical",
-          "availability": "Available",
-          "name": "Sodium Silicate (Powder)",
-          "imageUrl": "./media/c28.jpg",
-          "size2": "",
-          "details": "",
-          "details2": ""
-          },
-          {
-          "_id": "ij3485",
-          "category": "Chemical",
-          "availability": "Available",
-          "name": "Sodium Silicate (Powder)",
-          "imageUrl": "./media/c29.jpg",
-          "size2": "",
-          "details": "",
-          "details2": ""
-          },
-          {
-          "_id": "ij3486",
-          "category": "Chemical",
-          "availability": "Available",
-          "name": "Sodium Silicate (Liquid)",
-          "imageUrl": "./media/c30.jpg",
-          "size2": "",
-          "details": "",
-          "details2": ""
-          },
-          
+       
+
       
 
 
@@ -1546,16 +1470,96 @@
 
 
 
-    {
-      "_id": "abc123",
-      "category": "ALUMINIUM Products",
-      "availability": "Available",
-      "name": "ALUMINIUM CHECKERED SHEET",
-      "imageUrl": "./media/as3.jpg",
-      "size2": "",
-      "details": "",
-      "details2": ""
-    }
+          {
+            "_id": "abc123",
+            "category": "Building Materials",
+            "availability": "Available",
+            "name": "PVC GYPSUM BOARD",
+            "imageUrl": "./media/bm1.jpg",
+            "size2": "",
+            "details": "",
+            "details2": ""
+          },
+          {
+            "_id": "def456",
+            "category": "Building Materials",
+            "availability": "Available",
+            "name": "PERFORATED FIBERGLASS ACOUSTIC CEILING AND PANEL",
+            "imageUrl": "./media/bm2.jpg",
+            "size2": "",
+            "details": "",
+            "details2": ""
+          },
+          {
+            "_id": "ghi789",
+            "category": "Building Materials",
+            "availability": "Available",
+            "name": "FIBERGLASS ACOUSTIC CEILING AND PANEL",
+            "imageUrl": "./media/bm3.jpg",
+            "size2": "",
+            "details": "",
+            "details2": ""
+          },
+          {
+            "_id": "jkl012",
+            "category": "Building Materials",
+            "availability": "Available",
+            "name": "DECORATIVE FIBRIC ACOUSTIC INSULATION WALL PANEL",
+            "imageUrl": "./media/bm4.jpg",
+            "size2": "",
+            "details": "",
+            "details2": ""
+          },
+          {
+            "_id": "mno345",
+            "category": "Building Materials",
+            "availability": "Available",
+            "name": "E-FIBERGLASS ACOUSTIC CEILING AND PANEL",
+            "imageUrl": "./media/bm5.jpg",
+            "size2": "",
+            "details": "",
+            "details2": ""
+          },
+          {
+            "_id": "pqr678",
+            "category": "Building Materials",
+            "availability": "Available",
+            "name": "MGO DECORATIVE WALL PANEL",
+            "imageUrl": "./media/bm6.jpg",
+            "size2": "",
+            "details": "",
+            "details2": ""
+          },
+          {
+            "_id": "stu901",
+            "category": "Building Materials",
+            "availability": "Available",
+            "name": "FIBERGLASS REINFORCED GYPSUM CEILING",
+            "imageUrl": "./media/bm7.jpg",
+            "size2": "",
+            "details": "",
+            "details2": ""
+          },
+          {
+            "_id": "tgrid001",
+            "category": "Building Materials",
+            "availability": "Available",
+            "name": "T-GRID",
+            "imageUrl": "./media/bm8.jpg",
+            "size2": "",
+            "details": "",
+            "details2": ""
+          },
+          {
+            "_id": "cornice002",
+            "category": "Building Materials",
+            "availability": "Available",
+            "name": "GYPSUM CORNICE",
+            "imageUrl": "./media/bm9.jpg",
+            "size2": "",
+            "details": "",
+            "details2": ""
+          }
 
   ],
 

@@ -62,6 +62,12 @@ export const Navbar = () => {
               </Link>
             </li>
 
+            <li className="navItem">
+              <Link to="/Contact" className="navLink">
+              Contact
+              </Link>
+            </li>
+
 
      
 

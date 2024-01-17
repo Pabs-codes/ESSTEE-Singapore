@@ -1,0 +1,37 @@
+/* ScrollToTopButton.css */
+
+@keyframes shake {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-5px); /* Adjust the distance of the shake */
+    }
+  }
+  
+  .scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    left: 70px;
+    display: none;
+    color: #faf8f4;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    backdrop-filter: blur(5px);
+    background-color: rgba(11, 0, 0, 0.3);
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Add smooth transitions */
+  }
+  
+  .scroll-to-top.visible {
+    display: block;
+    animation: shake 0.5s infinite; /* Apply the shake animation to the visible state */
+  }
+  
+  .scroll-to-top:hover {
+    background-color: #ff9900;
+    animation: none; /* Disable shake animation on hover */
+  }
+  

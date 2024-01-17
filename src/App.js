@@ -4,6 +4,7 @@ import { Route, Routes } from "react-router-dom";
 import ServicesR from "./routes/ServicesR";
 import ProductsR from "./routes/ProductsR";
 import CorporationR from "./routes/CorporationR";
+import ContactR from "./routes/ContactR";
 
 export default function App() {
   return (
@@ -13,7 +14,9 @@ export default function App() {
       <Route path="/Services" element={<ServicesR />} />
       <Route path="/Products" element={<ProductsR />} />
       <Route path="/Corporation" element={<CorporationR/>}/>
+      <Route path="/Contact" element={<ContactR/>}/>
 
+ 
     </Routes>
   );
 }

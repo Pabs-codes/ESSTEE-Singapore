@@ -1,0 +1,200 @@
+
+
+    
+
+ /* Default styles for .contact-container */
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 190px;
+    padding-top: 100px;
+    background-image: url('../../../public/media/contact.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    align-items: center;
+  }
+  
+  /* Default styles for .contact-info and .message-container */
+  .contact-info {
+    width: 35%;
+    border-radius: 20px;
+    padding: 30px;
+    height: fit-content;
+  }
+  
+  .message-container {
+    width: 60%;
+    height: fit-content;
+    border-radius: 20px;
+    border: 3px solid #ccc;
+  }
+  
+  /* Default styles for headings */
+  .info-heading {
+    color: #fff;
+    font-size: medium;
+  }
+  
+  .message-heading {
+    color: #fff;
+  }
+  
+  /* Default styles for paragraphs */
+  .info-text {
+    font-size: small;
+    color: aliceblue;
+  }
+  
+  /* Default styles for .info-section */
+  .info-section {
+    margin-bottom: 20px;
+    border: #fff solid 2px;
+    padding: 15px;
+    backdrop-filter: blur(5px);
+    background-color: rgba(11, 0, 0, 0.3);
+    text-align: left;
+    border-radius: 20px;
+  }
+  
+  /* Default styles for labels and links */
+  .form-label,
+  .map-link {
+    color: #fff;
+  }
+  
+  /* Default styles for .message-container within media query */
+  .message-container {
+    backdrop-filter: blur(5px);
+    background-color: rgba(12, 1, 1, 0.3);
+    padding: 40px;
+  }
+  
+  /* Default styles for .form-container and form inputs */
+  .form-container,
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-label {
+    margin-bottom: 5px;
+    text-align: left;
+    padding-left: 10px;
+  }
+  
+  .form-input,
+  .form-textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    color: #333;
+  }
+  
+  .form-button {
+    background-color:  rgb(255, 160, 17);
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  .form-button:hover {
+    background-color: #b30000;
+  }
+
+
+
+
+  
+
+  @media screen and (max-width: 1200px) {
+    .info-section {
+      display:inline-block;
+      width: fit-content;
+      width: 250px;
+    }
+    .contact-container {
+      padding: 120px;
+    }
+    .contact-info {
+      width: 50%;
+      padding-right: 40px;
+    }
+    .message-container {
+      width: 55%;
+    }
+    .info-heading {
+      font-size: small;
+    }
+    .message-heading {
+      font-size: small;
+    }
+    .info-text {
+      font-size: small;
+    }
+  }
+  
+  @media screen and (max-width: 992px) {
+    .contact-container {
+      padding: 80px;
+      align-items: center;
+    }
+    .contact-info,
+    .message-container {
+      width: 100%;
+    }
+    .info-heading {
+      font-size: small;
+    }
+    .message-heading {
+      font-size: small;
+    }
+    .info-text {
+      font-size: x-small;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .contact-container {
+      flex-direction: column;
+      align-items: center;
+    }
+    .contact-info,
+    .message-container {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    .info-heading {
+      font-size: x-small;
+    }
+    .message-heading {
+      font-size: x-small;
+    }
+    .info-text {
+      font-size: small;
+    }
+  }
+  
+  /* Additional Media Queries for Responsive Design */
+  @media screen and (max-width: 576px) {
+    .info-heading {
+      font-size: 15px;
+    }
+    .message-heading {
+      font-size: small;
+    }
+    .info-text {
+      font-size: small;
+    }
+    .message-container {
+      padding: 10px;
+    }
+    .form-input,
+    .form-textarea {
+      padding: 4px;
+    }
+  }
+  
