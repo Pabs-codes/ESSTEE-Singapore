@@ -82,22 +82,22 @@
   
   @media screen and (max-width: 768px) {
     .waicon-container {
-      display: block; /* Adjust for smaller screens */
+      display: block; 
     }
   
     .waicon {
-      position: static; /* Adjust for smaller screens */
-      margin-top: 10px; /* Adjust for smaller screens */
+      position: static; 
+      margin-top: 10px; 
     }
   
     .waicon:hover {
-      transform: scale(1); /* Disable animation for smaller screens */
+      transform: scale(1); 
     }
   
     .help-text {
-      display: none; /* Hide for smaller screens */
+      display: none; 
     }
   }
   
-  /* Add more media queries as needed for different screen sizes */
+  
   
