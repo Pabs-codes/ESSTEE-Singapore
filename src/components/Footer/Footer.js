@@ -42,15 +42,17 @@ const Footer = () => {
         <div className="footer-contact">
           <h4>Contact</h4>
           <p>+94 7777 51550 <br/> +65 91901970</p>
+          <div className="social-icons">
+          <p>+94 7777 51550   _<br/> +65 91901970    </p>
+          {/* <a href="https://www.facebook.com/rupasinghesteels" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook"></i></a> */}
+          <a href="https://wa.me/+94777751550" target="_blank" rel="noopener noreferrer"><i className="fab fa-whatsapp"></i></a>
+          {/* <a href="https://www.instagram.com/rupasinghesteels" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a> */}
+          {/* <a href="https://www.linkedin.com/in/rupasinghesteels" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a> */}
+
+        </div>
           <p>Email: <br/>info@essteesingapore.com</p>
        
-        {/* <div className="social-icons">
-          <a href="https://www.facebook.com/rupasinghesteels" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook"></i></a>
-          <a href="https://wa.me/+94777751550" target="_blank" rel="noopener noreferrer"><i className="fab fa-whatsapp"></i></a>
-          <a href="https://www.instagram.com/rupasinghesteels" target="_blank" rel="noopener noreferrer"><i className="fab fa-instagram"></i></a>
-          <a href="https://www.linkedin.com/in/rupasinghesteels" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
-
-        </div> */}
+      
 
         </div>
         <div className="footer-office">

@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import './home.css';
 import video from '../../Assets/video.mp4';
+import { FaTruck, FaShieldAlt, FaFileSignature , FaShip } from 'react-icons/fa';
 // import { GrLocation } from 'react-icons/gr';
 
 // import { FiFacebook } from 'react-icons/fi';
@@ -58,10 +59,10 @@ const Home = () => {
             <span>Read More</span> */}
 
             <div className="servicesContainer">
-    <div className="serviceItem"> <p>Import & Export</p></div>
-    <div className="serviceItem"> <p>Logistics</p></div>
-    <div className="serviceItem"><p>Insurance</p></div>
-    <div className="serviceItem"><p>Customs & Clearance</p></div>
+    <div className="serviceItem">  <p> Import & Export <br/>  <FaShip size={19} /> </p> </div>
+    <div className="serviceItem"> <p>Logistics  <br/> <FaTruck size={19} /> </p></div>
+    <div className="serviceItem"><p>Insurance   <br/> <FaShieldAlt size={19}/></p></div>
+    <div className="serviceItem"><p>Customs & Clearance  <br/><FaFileSignature size={19}/></p></div>
   </div>
           </div>
 
