@@ -1,5 +1,5 @@
 import React from 'react';
-import './Footer.css'; // You can create a separate CSS file for your footer styles
+import './Footer.css'; 
 
 
 const handleSubmit = (event) => {
