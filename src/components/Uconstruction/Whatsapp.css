@@ -88,6 +88,8 @@
     .waicon {
       position: static; 
       margin-top: 10px; 
+      width: 30px;
+    height: 30px;
     }
   
     .waicon:hover {

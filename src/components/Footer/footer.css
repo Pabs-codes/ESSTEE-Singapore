@@ -110,7 +110,7 @@
   
   .footer-copyright {
     margin-top: 50px;
-    padding-bottom: 20px;
+    padding-bottom: 5px;
   }
   
   .copyright-text{
@@ -191,7 +191,7 @@
     }
   
     .footer-message button {
-      padding: 1px 2px; /* Adjust padding as needed */
+      padding: 10px 20px; /* Adjust padding as needed */
     }
   
     .location-button {
