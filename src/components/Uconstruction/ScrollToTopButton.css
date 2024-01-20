@@ -26,6 +26,7 @@
   }
   
   .scroll-to-top.visible {
+    font-size: 8px;
     display: block;
     animation: shake 0.5s infinite; /* Apply the shake animation to the visible state */
   }
@@ -35,3 +36,19 @@
     animation: none; /* Disable shake animation on hover */
   }
   
+
+
+
+
+
+@media screen and (max-width: 768px) {
+  .scroll-to-top {
+    left: 20px; /* Adjust the left position for smaller screens */
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .scroll-to-top {
+    left: 10px; /* Further adjust the left position for even smaller screens */
+  }
+}

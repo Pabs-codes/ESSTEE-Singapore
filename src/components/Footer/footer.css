@@ -5,8 +5,8 @@
     color: #fff; /* Set your desired text color */
     padding-top:70px ;
     text-align: center;
-   border-top-left-radius: 40px;
-   border-top-right-radius: 40px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
   }
   
   .footer-content {
@@ -166,6 +166,18 @@
   }
 
   @media only screen and (max-width: 768px) {
+
+    .footer {
+      background-color: #232323; /* Set your desired background color */
+      color: #fff; /* Set your desired text color */
+      padding-top:30px ;
+      text-align: center;
+      align-items: center;
+      padding-left: 10px;
+      border-top-left-radius: 20px;
+      border-top-right-radius: 20px;
+    }
+
     .footer-content {
       flex-direction: column;
     }
