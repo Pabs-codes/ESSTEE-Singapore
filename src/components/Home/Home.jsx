@@ -28,8 +28,8 @@ const Home = () => {
             welcome to
           </span>
 
-          <h1 data-aos="fade-up" className="homeTitle">
-            ESSTEE Singapoore PTE.Ltd.{' '}
+          <h1 data-aos="fade-up" className="homeTittle">
+            ESSTEE Singapoore PTE.Ltd.{''}
           </h1>
         </div>
 
