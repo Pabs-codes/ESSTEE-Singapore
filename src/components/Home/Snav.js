@@ -218,7 +218,7 @@ const App = () => {
 
         // Update the selected item
         setSelectedItem(items[nextIndex]);
-      }, 10000);
+      }, 50000);
     };
 
     // Start automatic navigation initially

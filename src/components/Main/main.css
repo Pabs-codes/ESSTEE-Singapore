@@ -1,7 +1,7 @@
 :root {
-  --PrimaryColor: hsl(199, 100%, 33%);
-  --SecondaryColor: hsl(187, 85%, 43%);
-  --gradientColor: linear-gradient(to right, hsl(187, 85%, 43%), hsl(199, 100%, 33%));
+  --PrimaryColor: hsl(0, 100%, 33%);
+  --SecondaryColor: hsl(0, 85%, 43%);
+  --gradientColor: linear-gradient(to right, hsl(0, 85%, 43%), hsl(11, 100%, 33%));
   --whiteColor: hsl(0, 0%, 100%);
   --blackColor: hsl(201, 33%, 16%);
   --textColor: hsl(240, 4%, 36%);
@@ -129,6 +129,34 @@
   justify-content: space-between;
   gap: 0.5rem;
 }
+
+
+.exporemorebtn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+.bttn{
+  margin-top: 2rem;
+  color:#ffffff;
+  padding:20px;
+  border-radius: 20px;
+  font-weight: 600;
+  justify-content: space-between;
+  gap: 0.5rem;
+  background: linear-gradient(to right, black, red);
+  border: none;
+  cursor: pointer;
+
+}
+
+.bttn:hover {
+  background: linear-gradient(to right, rgb(249, 3, 3), rgb(12, 12, 12)); 
+ 
+}
+
+
 .main .secContent .singleDestination .cardInfo .btn .icon {
   align-self: center;
   font-size: 18px;

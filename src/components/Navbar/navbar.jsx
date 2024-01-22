@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom"; // Import Link from react-router-dom
+import { Link } from "react-router-dom"; 
 import "./navbar.css";
 import { AiFillCloseCircle } from "react-icons/ai";
 import { TbGridDots } from "react-icons/tb";
@@ -20,7 +20,7 @@ export const Navbar = () => {
     <section className="navBarSection">
       <header className="header flex">
         <div className="logoDiv">
-          <Link to="/" className="logo flex"> {/* Use Link instead of 'a' */}
+          <Link to="/" className="logo flex"> 
             <img
               className="logo"
               src={logoImage}

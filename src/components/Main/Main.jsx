@@ -8,6 +8,8 @@ import img4 from '../../Assets/img (4).jpg'
 import img5 from '../../Assets/img (5).jpg'
 import img6 from '../../Assets/img (6).jpg'
 
+import { Link } from 'react-router-dom';
+
 
 import Aos from "aos"
 import 'aos/dist/aos.css'
@@ -119,12 +121,21 @@ export const Main = () => {
 
 
                 </div>
+             
 
               </div>
+              
             )
           })
         }
         
+      </div>
+
+      <div className='exporemorebtn'>
+      <Link to="/Products" className="navLink">
+      <button className='bttn flex'>
+                    Explore more products &#10151; 
+                  </button> </Link>
       </div>
 
 
