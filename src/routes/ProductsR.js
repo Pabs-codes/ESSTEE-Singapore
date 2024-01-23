@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from '../components/Navbar/navbar'
 import Products from '../components/Products/Products'
 import Whatsapp from '../components/Uconstruction/Whatsapp'
+import Footer from '../components/Footer/Footer'
 
 const ProductsR = () => {
   return (
@@ -9,6 +10,7 @@ const ProductsR = () => {
     <Navbar/>
     <Products/>
     <Whatsapp/>
+    <Footer/>
     </>
   )
 }
