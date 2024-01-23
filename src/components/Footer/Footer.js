@@ -25,7 +25,7 @@ const myStyle = {
   };
 const Footer = () => {
   return (
-    <Footer className="footer">
+    <footer className="footer">
       <div className="footer-content">
         <div className="footer-address">
           <h4>Address</h4>
@@ -104,7 +104,7 @@ const Footer = () => {
 
 
 
-    </Footer>
+    </footer>
   );
 };
 

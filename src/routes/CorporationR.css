@@ -21,17 +21,17 @@
   }
   
   /* Media queries for responsive design */
-  @media (max-width: 768px) {
+  /* @media (max-width: 768px) {
     .corporation-image {
-      /* Adjust styles for screens with a maximum width of 768px */
+  
     }
   }
   
   @media (max-width: 576px) {
     .corporation-image {
-      /* Adjust styles for screens with a maximum width of 576px */
+   
     }
   }
-  
-  /* Add more media queries as needed for different screen sizes */
+   */
+
   
