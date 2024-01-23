@@ -41,7 +41,6 @@ const Footer = () => {
         </div>
         <div className="footer-contact">
           <h4>Contact</h4>
-          <p>+94 7777 51550 <br/> +65 91901970</p>
           <div className="social-icons">
           <p>+94 7777 51550   _<br/> +65 91901970    </p>
           {/* <a href="https://www.facebook.com/rupasinghesteels" target="_blank" rel="noopener noreferrer"><i className="fab fa-facebook"></i></a> */}
