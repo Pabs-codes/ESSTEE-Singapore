@@ -3,8 +3,7 @@ import Navbar from '../components/Navbar/navbar'
 import Home from '../components/Home/Home';
 import Snav from '../components/Home/Snav';
 import Main from '../components/Main/Main';
-import Footer from '../components/Footer/Footer';
-import Card from '../components/Slider/Slider';
+import Footer from '../components/Slider/Footer/Footer';import Card from '../components/Slider/Slider';
 
 
 

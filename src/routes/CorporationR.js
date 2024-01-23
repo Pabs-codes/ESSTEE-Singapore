@@ -2,9 +2,9 @@
 
 import React from 'react';
 import Navbar from '../components/Navbar/navbar';
-import './CorporationR.css';  // Import the CSS file
+import './CorporationR.css'; 
 import Whatsapp from '../components/Uconstruction/Whatsapp';
-import Footer from '../components/Footer/Footer';
+import Footer from '../components/Slider/Footer/Footer';
 
 const CorporationR = () => {
   return (
