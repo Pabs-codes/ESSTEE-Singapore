@@ -12,7 +12,7 @@ function Donutchart() {
                     series={[78, 11, 9, 2]}
 
                     options={{
-                        labels: ['Asia', 'Africa', 'Europe', 'American'],
+                        labels: ['Asia', 'Africa', 'Europe', 'Americas'],
                         title:{
                             text:"Medal Country Name"
                         },
