@@ -15,7 +15,7 @@ import 'aos/dist/aos.css';
 const Home = () => {
   // use react hooks to add a scroll animation
   useEffect(() => {
-    Aos.init({ duration: 15000 });
+    Aos.init({ duration: 150000 });
   }, []);
 
   return (
