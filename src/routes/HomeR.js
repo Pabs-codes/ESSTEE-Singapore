@@ -3,20 +3,25 @@ import Navbar from '../components/Navbar/navbar'
 import Home from '../components/Home/Home';
 import Snav from '../components/Home/Snav';
 import Main from '../components/Main/Main';
-import Footer from '../components/Slider/Footer/Footer';import Card from '../components/Slider/Slider';
+import Footer from '../components/Slider/Footer/Footer';
+import Card from '../components/Slider/Slider';
 
 
 
 import img from '../Assets/VM.png';
 import ScrollToTopButton from '../components/Uconstruction/ScrollToTopButton';
 import Whatsapp from '../components/Uconstruction/Whatsapp';
+import Hero from '../components/Hero/Hero';
 // import logoImage from './Assets/ESSTEEhq.png';
 
 function HomeR() {
   return (
    <>
+     
       <Navbar />
+      <Hero/>
       <Home />
+      
       <Snav/>
       <Card
         imageUrl={img}

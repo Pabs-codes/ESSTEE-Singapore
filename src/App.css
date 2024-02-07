@@ -1,28 +1,3 @@
-/* #app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
-
-.logo {
-  height: 6em;
-  padding: 1.5em;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.preact:hover {
-  filter: drop-shadow(0 0 2em #673ab8aa);
-}
-
-.card {
-  padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
-} */
 
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:ital,wght@1,200;1,700&display=swap');
@@ -34,12 +9,6 @@
   font-family: 'Poppins', sans-serif;
 }
 
-/* `:root` is a CSS pseudo-class that selects the root element of the document, which is typically the
-`<html>` element. The purpose of defining variables within `:root` is to create global CSS variables
-that can be used throughout the document. In this case, the variables are defining various colors
-that can be used in the document, such as `--PrimaryColor`, `--SecondaryColor`, `--gradientColor`,
-etc. These variables can then be referenced in other CSS rules using the `var()` function, allowing
-for easy and consistent styling throughout the document. */
 :root{
   --PrimaryColor: hsl(0, 100%, 33%);
   --SecondaryColor: hsl(0, 85%, 43%);
@@ -52,6 +21,14 @@ for easy and consistent styling throughout the document. */
   --inputColor: rgb(239. 239, 239);
   --bodyColor: rgb(240, 240, 246);
   --cardBG: rgb(225, 225, 235);
+
+  --lightgray: #D9D9D9;
+  --gray: #9c9c9c;
+  --orange: #f42f15;
+  --darkGrey: #464D53;
+  --caloryCard: #656565;
+  --planCard: linear-gradient(210.41deg, #fa5042 1.14%, #ff5439 100.75%);
+  --appColor:  #3c3f45;
 }
 
 html{
@@ -138,4 +115,35 @@ body{
   body{
     zoom: 1.7;
   }
+}
+
+
+/* make variables */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.stroke-text{
+  color: transparent;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: white;
+}
+
+.blur{
+  background: rgb(9, 4, 3);
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(150px);
+  z-index: -9;
 }

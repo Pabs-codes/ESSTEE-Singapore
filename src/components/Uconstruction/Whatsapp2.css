@@ -1,0 +1,105 @@
+/* Your existing styles for other elements */
+
+@keyframes iconZoom {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  .waicon-container {
+    display: flex;
+    align-items: center;
+    z-index: 1000;
+  }
+  
+  .waicon {
+    position: fixed;
+    top: 200px;
+    right: 8px;
+    width: 60px;
+    height: 60px;
+    padding: 0;
+    border-radius: 20%;
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out;
+    animation: iconZoom 1s infinite;
+    z-index: 1000;
+  }
+  
+  .waicon:hover {
+    border-radius: 20px;
+    transform: scale(1.2);
+    animation: iconZoom 0.4s infinite;
+  }
+  
+  .waicon a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .waicon img {
+    width: 100%;
+    z-index: 1000;
+    height: auto;
+  }
+  
+  @keyframes popup {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    50% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    100% {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+  }
+  
+  .help-text {
+    position: fixed;
+    right: 80px;
+    top: 110px;
+    width: 260px;
+    height: 260px;
+    display: block;
+    padding: 0;
+    opacity: 0;
+    border-radius: 20%;
+    animation: popup 8s ease-in-out;
+    z-index: 1000;
+  }
+  
+  /* Media Queries */
+  
+  @media screen and (max-width: 768px) {
+    .waicon-container {
+      display: block; 
+    }
+  
+    .waicon {
+      position: static; 
+      margin-top: 10px; 
+      width: 30px;
+      height: 30px;
+    }
+  
+    .waicon:hover {
+      transform: scale(1); 
+    }
+  
+    .help-text {
+      display: none; 
+    }
+  }
+  
+  
+  
