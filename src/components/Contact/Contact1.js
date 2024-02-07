@@ -2,6 +2,7 @@ import React from 'react';
 import './Contact.css';
 import Navbar from '../Navbar/navbar';
 import Whatsapp from '../Uconstruction/Whatsapp';
+import ContactSection from './ContactSection';
 
 
 const Contact = () => {
@@ -60,6 +61,7 @@ const Contact = () => {
     </div>
     
    <Whatsapp/>
+   <ContactSection/>
    
 
       </>
