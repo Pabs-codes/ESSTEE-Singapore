@@ -2,10 +2,7 @@ import React from 'react'
 import "./Hero.css"
 import "./s.css"
 
-import hero_image from "../../assets0/hero_image.png"
 import hero_back from "../../assets0/hero_image_back.png"
-import heart from "../../assets0/heart.png"
-import calories from "../../assets0/calories.png"
 
 import order from "../../assets0/order.png"
 import destination from "../../assets0/destinations.png"
@@ -15,9 +12,6 @@ import globe from "../../assets0/globe.png"
 import { motion } from "framer-motion"
 import NumberCounter from "number-counter";
 
-// import Header from '../Navbar/navbar'
-
-import { Link } from "react-scroll";
 
 
 
@@ -64,21 +58,21 @@ const Hero = () => {
         <div className="figures">
           <div>
             <span>
-                <img className='iconclass' src={order}/>
+                <img className='iconclass' src={order} alt='ordericon'/>
               <NumberCounter end={67} start={10} delay={4} preFix="+" />
             </span>
             <span>Annual <br/> orders</span>
           </div>
           <div>
             <span>
-            <img className='iconclass' src={office}/>
+            <img className='iconclass' src={office} alt='office icon'/>
               <NumberCounter end={2} start={1} delay={4} preFix="+" />
             </span>
             <span>Global <br/> offices</span>
           </div>
           <div>
             <span>
-            <img className='iconclass' src={destination}/>
+            <img className='iconclass' src={destination} alt='destinationicon'/>
               <NumberCounter end={6} delay={2} preFix="+" />
             </span>
             <span>Active <br/> destinations</span>
@@ -87,7 +81,7 @@ const Hero = () => {
           <div>
             
             <span>
-            <img className='iconclass' src={globe}/>
+            <img className='iconclass' src={globe} alt='globe icon'/>
               <NumberCounter end={5} delay={2} preFix="+" />
             </span>
             <span>Active <br/> origins</span>
