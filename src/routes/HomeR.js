@@ -12,6 +12,7 @@ import img from '../Assets/VM.png';
 import ScrollToTopButton from '../components/Uconstruction/ScrollToTopButton';
 import Whatsapp from '../components/Uconstruction/Whatsapp';
 import Hero from '../components/Hero/Hero';
+import Dough from '../components/Hero/Dough';
 // import logoImage from './Assets/ESSTEEhq.png';
 
 function HomeR() {
@@ -20,6 +21,7 @@ function HomeR() {
      
       <Navbar />
       <Hero/>
+      <Dough/>
       <Home />
       
       <Snav/>

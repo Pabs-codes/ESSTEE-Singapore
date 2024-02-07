@@ -1,0 +1,103 @@
+/* Donut.css */
+
+.containerer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 100px;
+    gap: 40px;
+    overflow: auto;
+    background: linear-gradient(315deg, rgb(101, 0, 0) 3%, rgb(107, 5, 5) 38%, rgb(36, 14, 3) 68%, rgb(7, 2, 31) 98%);
+    animation: gradient 10s ease infinite;
+    background-size: 400% 400%;
+    background-attachment: fixed;
+    
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 0%;
+    }
+    50% {
+        background-position: 100% 100%;
+    }
+    100% {
+        background-position: 0% 0%;
+    }
+}
+
+.left-side {
+    flex: 1;
+    width: 100%;
+    padding: 30px;
+    /* background-color: #051123; */
+    border-radius: 20px;
+   margin-left: 10px;
+   margin:50px;
+    animation: fadeInLeft 1s ease-in-out;
+  
+  
+}
+
+.right-side {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: fadeInRight 1s ease-in-out;
+    background-color: rgb(240, 248, 255);
+    border-radius: 20px;
+    margin-right:100px;
+}
+
+.left-side h2 {
+    font-size: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.left-side p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #e3d8d8;
+}
+
+@keyframes fadeInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes fadeInRight {
+    from {
+        opacity: 0;
+        transform: translateX(50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+
+/* Donut.css */
+
+.chart-container {
+    animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

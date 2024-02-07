@@ -29,7 +29,7 @@ const Hero = () => {
 
       <div className="left-h">
         {/* <Header/> */}
-        
+    
         {/* the best ad */}
         <div className="the-best">
           <motion.div
@@ -95,6 +95,7 @@ const Hero = () => {
         <div className="hero-btns">
           <button className="btn">Get Started</button>
           <button className="btn">Learn More</button>
+         
         </div>
       </div>
 
@@ -176,7 +177,7 @@ const Hero = () => {
                     </span>
                 </div>
             </div>
-         
+        
         </div>
         </div>
 
@@ -212,10 +213,7 @@ const Hero = () => {
 
 
   
-
-
-
-            <ul class="circles">
+      <ul class="circles">
                     <li></li>
                     <li></li>
                     <li></li>
@@ -228,6 +226,9 @@ const Hero = () => {
                     <li></li>
             </ul>
 
+
+
+           
 
 
     </div>
