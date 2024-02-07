@@ -14,7 +14,7 @@ function Donutchart() {
                     options={{
                         labels: ['Asia', 'Africa', 'Europe', 'Americas'],
                         title:{
-                            text:"Medal Country Name"
+                            text:"ESSTEE : Global Trade"
                         },
 
                         plotOptions:{
