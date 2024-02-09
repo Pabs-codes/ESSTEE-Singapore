@@ -3,7 +3,8 @@ import { Link } from "react-router-dom";
 import "./navbar.css";
 import { AiFillCloseCircle } from "react-icons/ai";
 import { TbGridDots } from "react-icons/tb";
-import logoImage from "../../Assets/ESSTEEhq.png";
+// import logoImage from "../../Assets/ESSTEEhq.png";
+import logoImage2 from "../../Assets/estuk.png"
 
 export const Navbar = () => {
   const [active, setActive] = useState("navBar");
@@ -23,7 +24,7 @@ export const Navbar = () => {
           <Link to="/" className="logo flex"> 
             <img
               className="logo"
-              src={logoImage}
+              src={logoImage2}
               alt="Estee Singapore PTE.Ltd. Logo"
             />
           </Link>
