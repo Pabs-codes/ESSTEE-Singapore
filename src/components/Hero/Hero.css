@@ -559,7 +559,7 @@
   }
 
   .the-best {
-    margin-top: 0;
+    margin-top: 40px;
     font-size: small;
     align-self: center;
     transform: scale(0.8);
@@ -582,61 +582,36 @@
     justify-content: center;
   }
 
+
+
+
+
+
+  .figures {
+    display:flex;
+    gap: 0.2rem;
+    margin-bottom: 0;
+
+   align-items: center;
+   justify-content: center;
+  }
+  .figures > div {
+    display: flex;
+    flex-direction: column;
+    padding: 7px;
+  }
   .figures > div > span:nth-of-type(1) {
-    font-size: large;
-  }
-
-  .figures > div > span:nth-of-type(2) {
-    font-size: small;
-  }
-
-  .right-h {
-    position: relative;
-    background: none;
-  }
-
-  .heart-rate {
-    left: 1rem;
-    top: 2rem;
-  }
-
-  .calories {
-    position: relative;
-    top: 5rem;
-    left: 2rem;
-  }
-
-  .calories > img {
-    width: 2rem;
-  }
-
-  .calories > div > :nth-child(2) {
     color: white;
-    font-size: 1rem;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .figures > div > span:nth-of-type(2) {
+    color: var(--gray);
+    text-transform: uppercase;
+    text-align: center;
+    
   }
 
-  .hero-img {
-    position: relative;
-    width: 15rem;
-    left: 9rem;
-    top: 4rem;
-    align-self: center;
-  }
-
-  .hero-back {
-    width: 15rem;
-    left: 2rem;
-    top: 0rem;
-  }
-}
-
-/* Additional media queries for specific elements */
-
-.abtdiv {
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1rem;
-  margin-top: -30px;
-}
 
 .barcontainer {
   margin-right: 0;
@@ -656,7 +631,7 @@
   font-size: 12px;
 }
 
-
+}
 
 
 

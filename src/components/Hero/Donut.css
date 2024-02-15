@@ -105,16 +105,18 @@
 
 @media screen and (max-width: 768px) {
     .containerer {
-      flex-direction: column;
+      flex-direction:column-reverse;
+      display:inline-block;
       gap: 20px;
     }
   
-    .left-side,
+    .left-side
     .right-side {
       width: 100%;
     }
   
     .right-side {
+        /* display: none; */
       margin-right: 0;
     }
   
@@ -134,7 +136,7 @@
     }
   
     .right-side {
-      flex: 2;
+      flex: 1;
     }
   
     .chart-container {
