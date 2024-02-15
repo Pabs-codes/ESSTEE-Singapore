@@ -1,0 +1,20 @@
+.chart-container {
+    /* Base styles for the chart container */
+    /* ... */
+  }
+  
+  /* Media queries for responsiveness */
+  
+  @media screen and (max-width: 768px) {
+    .chart-container {
+      width: 100%;
+      font-size: smaller;
+    }
+  }
+  
+  @media screen and (min-width: 1024px) {
+    .chart-container {
+      width: 50%;
+    }
+  }
+  

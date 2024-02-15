@@ -147,3 +147,33 @@ body{
     }
 
 }
+
+@media screen and (max-width: 768px) {
+    .circles li {
+      width: 10px;
+      height: 10px;
+      bottom: -50px;
+    }
+  
+    .circles li:nth-child(6),
+    .circles li:nth-child(7) {
+      display: none; /* Hide larger circles on small screens */
+    }
+  
+    .context h1 {
+      font-size: 30px;
+    }
+  }
+  
+  @media screen and (min-width: 1024px) {
+    .circles li {
+      width: 30px;
+      height: 30px;
+    }
+  
+    .circles li:nth-child(6),
+    .circles li:nth-child(7) {
+      display: block; /* Show larger circles on large screens */
+    }
+  }
+  

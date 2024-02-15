@@ -544,6 +544,117 @@
 
 
 
+/* Media queries for different screen sizes */
+
+@media screen and (max-width: 768px) {
+
+  /* Adjust layout for smaller screens */
+
+  .hero {
+    flex-direction: column;
+  }
+
+  .hero-blur {
+    width: 14rem;
+  }
+
+  .the-best {
+    margin-top: 0;
+    font-size: small;
+    align-self: center;
+    transform: scale(0.8);
+  }
+
+  .hero-text {
+    font-size: xx-large;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .hero-text > div:nth-of-type(3) {
+    font-size: small;
+    font-weight: 200;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+
+  .hero-btns {
+    justify-content: center;
+  }
+
+  .figures > div > span:nth-of-type(1) {
+    font-size: large;
+  }
+
+  .figures > div > span:nth-of-type(2) {
+    font-size: small;
+  }
+
+  .right-h {
+    position: relative;
+    background: none;
+  }
+
+  .heart-rate {
+    left: 1rem;
+    top: 2rem;
+  }
+
+  .calories {
+    position: relative;
+    top: 5rem;
+    left: 2rem;
+  }
+
+  .calories > img {
+    width: 2rem;
+  }
+
+  .calories > div > :nth-child(2) {
+    color: white;
+    font-size: 1rem;
+  }
+
+  .hero-img {
+    position: relative;
+    width: 15rem;
+    left: 9rem;
+    top: 4rem;
+    align-self: center;
+  }
+
+  .hero-back {
+    width: 15rem;
+    left: 2rem;
+    top: 0rem;
+  }
+}
+
+/* Additional media queries for specific elements */
+
+.abtdiv {
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  margin-top: -30px;
+}
+
+.barcontainer {
+  margin-right: 0;
+  margin-top: 30px;
+}
+
+.bartitle-text {
+  font-size: large;
+  margin-bottom: 20px;
+}
+
+.skill-box .title {
+  font-size: 12px;
+}
+
+.skill-box .title2 {
+  font-size: 12px;
+}
 
 
 

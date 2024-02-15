@@ -101,3 +101,44 @@
         transform: translateY(0);
     }
 }
+
+
+@media screen and (max-width: 768px) {
+    .containerer {
+      flex-direction: column;
+      gap: 20px;
+    }
+  
+    .left-side,
+    .right-side {
+      width: 100%;
+    }
+  
+    .right-side {
+      margin-right: 0;
+    }
+  
+    .chart-container {
+      width: 100%;
+    }
+  
+    .left-side h2,
+    .left-side p {
+      font-size: smaller;
+    }
+  }
+  
+  @media screen and (min-width: 1024px) {
+    .containerer {
+      gap: 60px;
+    }
+  
+    .right-side {
+      flex: 2;
+    }
+  
+    .chart-container {
+      width: 50%;
+    }
+  }
+  
