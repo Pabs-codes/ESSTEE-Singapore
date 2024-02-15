@@ -46,8 +46,9 @@
     align-items: center;
     animation: fadeInRight 1s ease-in-out;
     background-color: rgb(240, 248, 255);
-    border-radius: 20px;
+    border-radius: 10px;
     margin-right:100px;
+ 
 }
 
 .left-side h2 {
@@ -110,7 +111,9 @@
       gap: 20px;
     }
   
-    .left-side
+    .left-side{
+        width: auto;
+    }
     .right-side {
       width: 100%;
     }
@@ -118,6 +121,7 @@
     .right-side {
         /* display: none; */
       margin-right: 0;
+      border-radius: 0;
     }
   
     .chart-container {

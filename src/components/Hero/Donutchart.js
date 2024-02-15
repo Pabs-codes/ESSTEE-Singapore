@@ -14,7 +14,13 @@ function Donutchart() {
           options={{
             labels: ['Asia', 'Africa', 'Europe', 'Americas'],
             title: {
-              text: "ESSTEE : Global Trade"
+              text: "Esstee : Global Trade",
+              style: {
+                fontSize: '9px', // Example styling
+                color: 'black',    // Make text color red
+                fontWeight: 'bold', // Example styling
+                paddingBottom: '20px' // Add padding bottom of 20px
+              }
             },
             plotOptions: {
               pie: {
