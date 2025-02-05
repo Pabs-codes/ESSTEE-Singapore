@@ -475,31 +475,36 @@
 
 
 .skill-per.dahanamaya{
-    width: 50%;
+    width: 40%;
     animation-delay:1.7s ;
 }
 
 .skill-per.wissa {
-    width: 63%;
+    width: 53%;
     animation-delay: 1.7s;
 }
 
 .skill-per.wisieka{
-    width: 56%;
+    width: 50%;
     animation-delay: 1.7s;
 }
 .skill-per.wisideka{
-    width: 80%;
+    width: 70%;
     animation-delay: 1.7s;
 }
 .skill-per.wisituna{
-    width: 96%;
+    width: 76%;
     animation-delay: 1.7s;
 }
 
-.nowskill-per.wisihatara{
-    width: 20%;
+.skill-per.wisihatara{
+    width: 83%;
     animation-delay: 1.7s;
+}
+
+.nowskill-per.wisipaha{
+  width: 35%;
+  animation-delay: 1.7s;
 }
 
 

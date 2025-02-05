@@ -33,16 +33,16 @@ const Snav = ({ onSelect, selectedItem }) => {
             Working Area
           </a>
         </li>
-        <li className={`Snavclass ${selectedItem === 'DirectorProfile' ? 'active' : ''}`}>
+        {/* <li className={`Snavclass ${selectedItem === 'DirectorProfile' ? 'active' : ''}`}>
           <a href="#DirectorProfile" className="Snavclass" onClick={() => onSelect('DirectorProfile')}>
             Director Profile
           </a>
-        </li>
-        <li className={`Snavclass ${selectedItem === 'Trade and Export' ? 'active' : ''}`}>
+        </li> */}
+        {/* <li className={`Snavclass ${selectedItem === 'Trade and Export' ? 'active' : ''}`}>
           <a href="#Trade and Export" className="Snavclass" onClick={() => onSelect('Trade and Export')}>
             Trade and Export
           </a>
-        </li>
+        </li> */}
       </ul>
     </div>
   );

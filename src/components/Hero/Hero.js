@@ -127,7 +127,7 @@ const Hero = () => {
                 <span className="title">2019</span>
                 <div className="skill-bar">
                     <span className="skill-per dahanamaya">
-                        <span className="tooltip">675</span>
+                        <span className="tooltip">575</span>
                     </span>
                 </div>
             </div>
@@ -135,7 +135,7 @@ const Hero = () => {
                 <span className="title">2020</span>
                 <div className="skill-bar">
                     <span className="skill-per wissa">
-                        <span className="tooltip">825</span>
+                        <span className="tooltip">725</span>
                     </span>
                 </div>
             </div>
@@ -151,7 +151,7 @@ const Hero = () => {
                 <span className="title">2022</span>
                 <div className="skill-bar">
                     <span className="skill-per wisideka">
-                        <span className="tooltip">1050</span>
+                        <span className="tooltip">950</span>
                     </span>
                 </div>
             </div>
@@ -159,15 +159,24 @@ const Hero = () => {
                 <span className="title">2023</span>
                 <div className="skill-bar">
                     <span className="skill-per wisituna">
-                        <span className="tooltip">1300</span>
+                        <span className="tooltip">990</span>
                     </span>
                 </div>
             </div>
 
             <div className="skill-box">
-                <span className="title2">2024</span>
+                <span className="title">2024</span>
                 <div className="skill-bar">
-                    <span className="nowskill-per wisihatara">
+                    <span className="skill-per wisihatara">
+                        <span className="tooltip">1100</span>
+                    </span>
+                </div>
+            </div>
+
+            <div className="skill-box">
+                <span className="title2">2025</span>
+                <div className="skill-bar">
+                    <span className="nowskill-per wisipaha">
                         {/* <span className="tooltip"></span> */}
                     </span>
                 </div>

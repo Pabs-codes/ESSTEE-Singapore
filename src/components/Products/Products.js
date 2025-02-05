@@ -200,14 +200,7 @@ const Products = () => {
                     <h4 className="products__details">{category.details}</h4>
                     <h5 className="products__details2">{category.details2}</h5>
                     <h5 className="products__details2">{category.moreInfo}</h5>
-                    {/* <button className="products__button2" onClick={handleMoreInfoClick}>
-                    Click here for more info
-                  </button> */}
 
-                   {/* Conditionally render the info message */}
-                   {/* {showInfoMessage && (
-                    <p className="info-message">not available at the moment , <br/> please contact us for more details.</p>
-                  )} */}
 
                  
                   </div>
